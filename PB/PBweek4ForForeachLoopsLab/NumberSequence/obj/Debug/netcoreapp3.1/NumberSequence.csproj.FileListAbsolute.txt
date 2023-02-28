@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.genruntimeconfig.cache

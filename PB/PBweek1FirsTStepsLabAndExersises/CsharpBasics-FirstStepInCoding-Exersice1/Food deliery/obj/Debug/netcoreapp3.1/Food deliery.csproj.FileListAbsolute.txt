@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\demo\Food deliery\bin\Debug\netcoreapp3.1\Food deliery.exe
+C:\Users\user\source\repos\demo\Food deliery\bin\Debug\netcoreapp3.1\Food deliery.deps.json
+C:\Users\user\source\repos\demo\Food deliery\bin\Debug\netcoreapp3.1\Food deliery.runtimeconfig.json
+C:\Users\user\source\repos\demo\Food deliery\bin\Debug\netcoreapp3.1\Food deliery.runtimeconfig.dev.json
+C:\Users\user\source\repos\demo\Food deliery\bin\Debug\netcoreapp3.1\Food deliery.dll
+C:\Users\user\source\repos\demo\Food deliery\bin\Debug\netcoreapp3.1\Food deliery.pdb
+C:\Users\user\source\repos\demo\Food deliery\obj\Debug\netcoreapp3.1\Food deliery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\demo\Food deliery\obj\Debug\netcoreapp3.1\Food deliery.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\demo\Food deliery\obj\Debug\netcoreapp3.1\Food deliery.AssemblyInfo.cs
+C:\Users\user\source\repos\demo\Food deliery\obj\Debug\netcoreapp3.1\Food deliery.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\demo\Food deliery\obj\Debug\netcoreapp3.1\Food deliery.dll
+C:\Users\user\source\repos\demo\Food deliery\obj\Debug\netcoreapp3.1\Food deliery.pdb
+C:\Users\user\source\repos\demo\Food deliery\obj\Debug\netcoreapp3.1\Food deliery.genruntimeconfig.cache

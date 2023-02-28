@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\TrapeziodArea\WheatherForcast\bin\Debug\netcoreapp3.1\WheatherForcast.exe
+E:\Users\user\Source\Repos\TrapeziodArea\WheatherForcast\bin\Debug\netcoreapp3.1\WheatherForcast.deps.json
+E:\Users\user\Source\Repos\TrapeziodArea\WheatherForcast\bin\Debug\netcoreapp3.1\WheatherForcast.runtimeconfig.json
+E:\Users\user\Source\Repos\TrapeziodArea\WheatherForcast\bin\Debug\netcoreapp3.1\WheatherForcast.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\TrapeziodArea\WheatherForcast\bin\Debug\netcoreapp3.1\WheatherForcast.dll
+E:\Users\user\Source\Repos\TrapeziodArea\WheatherForcast\bin\Debug\netcoreapp3.1\WheatherForcast.pdb
+E:\Users\user\Source\Repos\TrapeziodArea\WheatherForcast\obj\Debug\netcoreapp3.1\WheatherForcast.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\TrapeziodArea\WheatherForcast\obj\Debug\netcoreapp3.1\WheatherForcast.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\TrapeziodArea\WheatherForcast\obj\Debug\netcoreapp3.1\WheatherForcast.AssemblyInfo.cs
+E:\Users\user\Source\Repos\TrapeziodArea\WheatherForcast\obj\Debug\netcoreapp3.1\WheatherForcast.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\TrapeziodArea\WheatherForcast\obj\Debug\netcoreapp3.1\WheatherForcast.dll
+E:\Users\user\Source\Repos\TrapeziodArea\WheatherForcast\obj\Debug\netcoreapp3.1\WheatherForcast.pdb
+E:\Users\user\Source\Repos\TrapeziodArea\WheatherForcast\obj\Debug\netcoreapp3.1\WheatherForcast.genruntimeconfig.cache
+E:\Users\user\Source\Repos\TrapeziodArea\WheatherForcast\obj\Debug\netcoreapp3.1\WheatherForcast.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\demo\Fish Tank\bin\Debug\netcoreapp3.1\Fish Tank.exe
+C:\Users\user\source\repos\demo\Fish Tank\bin\Debug\netcoreapp3.1\Fish Tank.deps.json
+C:\Users\user\source\repos\demo\Fish Tank\bin\Debug\netcoreapp3.1\Fish Tank.runtimeconfig.json
+C:\Users\user\source\repos\demo\Fish Tank\bin\Debug\netcoreapp3.1\Fish Tank.runtimeconfig.dev.json
+C:\Users\user\source\repos\demo\Fish Tank\bin\Debug\netcoreapp3.1\Fish Tank.dll
+C:\Users\user\source\repos\demo\Fish Tank\bin\Debug\netcoreapp3.1\Fish Tank.pdb
+C:\Users\user\source\repos\demo\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\demo\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\demo\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.AssemblyInfo.cs
+C:\Users\user\source\repos\demo\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\demo\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.dll
+C:\Users\user\source\repos\demo\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.pdb
+C:\Users\user\source\repos\demo\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.genruntimeconfig.cache

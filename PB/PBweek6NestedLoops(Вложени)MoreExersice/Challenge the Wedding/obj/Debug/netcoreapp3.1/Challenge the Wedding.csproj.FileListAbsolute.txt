@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Challenge the Wedding\bin\Debug\netcoreapp3.1\Challenge the Wedding.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Challenge the Wedding\bin\Debug\netcoreapp3.1\Challenge the Wedding.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Challenge the Wedding\bin\Debug\netcoreapp3.1\Challenge the Wedding.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Challenge the Wedding\bin\Debug\netcoreapp3.1\Challenge the Wedding.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Challenge the Wedding\bin\Debug\netcoreapp3.1\Challenge the Wedding.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Challenge the Wedding\bin\Debug\netcoreapp3.1\Challenge the Wedding.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Challenge the Wedding\obj\Debug\netcoreapp3.1\Challenge the Wedding.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Challenge the Wedding\obj\Debug\netcoreapp3.1\Challenge the Wedding.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Challenge the Wedding\obj\Debug\netcoreapp3.1\Challenge the Wedding.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Challenge the Wedding\obj\Debug\netcoreapp3.1\Challenge the Wedding.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Challenge the Wedding\obj\Debug\netcoreapp3.1\Challenge the Wedding.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Challenge the Wedding\obj\Debug\netcoreapp3.1\Challenge the Wedding.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Challenge the Wedding\obj\Debug\netcoreapp3.1\Challenge the Wedding.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Challenge the Wedding\obj\Debug\netcoreapp3.1\Challenge the Wedding.genruntimeconfig.cache

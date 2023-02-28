@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Examp\bin\Debug\netcoreapp3.1\Examp.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Examp\bin\Debug\netcoreapp3.1\Examp.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Examp\bin\Debug\netcoreapp3.1\Examp.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Examp\bin\Debug\netcoreapp3.1\Examp.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Examp\bin\Debug\netcoreapp3.1\Examp.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Examp\bin\Debug\netcoreapp3.1\Examp.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Examp\obj\Debug\netcoreapp3.1\Examp.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Examp\obj\Debug\netcoreapp3.1\Examp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Examp\obj\Debug\netcoreapp3.1\Examp.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Examp\obj\Debug\netcoreapp3.1\Examp.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Examp\obj\Debug\netcoreapp3.1\Examp.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Examp\obj\Debug\netcoreapp3.1\Examp.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Examp\obj\Debug\netcoreapp3.1\Examp.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Examp\obj\Debug\netcoreapp3.1\Examp.genruntimeconfig.cache

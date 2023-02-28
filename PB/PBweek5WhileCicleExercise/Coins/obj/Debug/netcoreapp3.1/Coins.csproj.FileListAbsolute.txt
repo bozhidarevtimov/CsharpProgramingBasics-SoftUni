@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Coins\bin\Debug\netcoreapp3.1\Coins.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Coins\bin\Debug\netcoreapp3.1\Coins.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Coins\bin\Debug\netcoreapp3.1\Coins.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Coins\bin\Debug\netcoreapp3.1\Coins.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Coins\bin\Debug\netcoreapp3.1\Coins.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Coins\bin\Debug\netcoreapp3.1\Coins.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Coins\obj\Debug\netcoreapp3.1\Coins.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Coins\obj\Debug\netcoreapp3.1\Coins.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Coins\obj\Debug\netcoreapp3.1\Coins.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Coins\obj\Debug\netcoreapp3.1\Coins.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Coins\obj\Debug\netcoreapp3.1\Coins.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Coins\obj\Debug\netcoreapp3.1\Coins.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Coins\obj\Debug\netcoreapp3.1\Coins.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Coins\obj\Debug\netcoreapp3.1\Coins.genruntimeconfig.cache

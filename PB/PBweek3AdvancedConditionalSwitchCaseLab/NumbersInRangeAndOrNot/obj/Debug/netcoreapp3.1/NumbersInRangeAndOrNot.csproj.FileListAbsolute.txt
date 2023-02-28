@@ -1,0 +1,13 @@
+e:\Users\user\source\repos\PBweek3SoftUniLab\NumbersInRangeAndOrNot\bin\Debug\netcoreapp3.1\NumbersInRangeAndOrNot.exe
+e:\Users\user\source\repos\PBweek3SoftUniLab\NumbersInRangeAndOrNot\bin\Debug\netcoreapp3.1\NumbersInRangeAndOrNot.deps.json
+e:\Users\user\source\repos\PBweek3SoftUniLab\NumbersInRangeAndOrNot\bin\Debug\netcoreapp3.1\NumbersInRangeAndOrNot.runtimeconfig.json
+e:\Users\user\source\repos\PBweek3SoftUniLab\NumbersInRangeAndOrNot\bin\Debug\netcoreapp3.1\NumbersInRangeAndOrNot.runtimeconfig.dev.json
+e:\Users\user\source\repos\PBweek3SoftUniLab\NumbersInRangeAndOrNot\bin\Debug\netcoreapp3.1\NumbersInRangeAndOrNot.dll
+e:\Users\user\source\repos\PBweek3SoftUniLab\NumbersInRangeAndOrNot\bin\Debug\netcoreapp3.1\NumbersInRangeAndOrNot.pdb
+e:\Users\user\source\repos\PBweek3SoftUniLab\NumbersInRangeAndOrNot\obj\Debug\netcoreapp3.1\NumbersInRangeAndOrNot.GeneratedMSBuildEditorConfig.editorconfig
+e:\Users\user\source\repos\PBweek3SoftUniLab\NumbersInRangeAndOrNot\obj\Debug\netcoreapp3.1\NumbersInRangeAndOrNot.AssemblyInfoInputs.cache
+e:\Users\user\source\repos\PBweek3SoftUniLab\NumbersInRangeAndOrNot\obj\Debug\netcoreapp3.1\NumbersInRangeAndOrNot.AssemblyInfo.cs
+e:\Users\user\source\repos\PBweek3SoftUniLab\NumbersInRangeAndOrNot\obj\Debug\netcoreapp3.1\NumbersInRangeAndOrNot.csproj.CoreCompileInputs.cache
+e:\Users\user\source\repos\PBweek3SoftUniLab\NumbersInRangeAndOrNot\obj\Debug\netcoreapp3.1\NumbersInRangeAndOrNot.dll
+e:\Users\user\source\repos\PBweek3SoftUniLab\NumbersInRangeAndOrNot\obj\Debug\netcoreapp3.1\NumbersInRangeAndOrNot.pdb
+e:\Users\user\source\repos\PBweek3SoftUniLab\NumbersInRangeAndOrNot\obj\Debug\netcoreapp3.1\NumbersInRangeAndOrNot.genruntimeconfig.cache

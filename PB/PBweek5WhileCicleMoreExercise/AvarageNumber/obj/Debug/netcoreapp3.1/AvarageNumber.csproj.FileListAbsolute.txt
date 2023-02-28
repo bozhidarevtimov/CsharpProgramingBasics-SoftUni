@@ -1,0 +1,13 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\AvarageNumber\bin\Debug\netcoreapp3.1\AvarageNumber.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\AvarageNumber\bin\Debug\netcoreapp3.1\AvarageNumber.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\AvarageNumber\bin\Debug\netcoreapp3.1\AvarageNumber.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\AvarageNumber\bin\Debug\netcoreapp3.1\AvarageNumber.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\AvarageNumber\bin\Debug\netcoreapp3.1\AvarageNumber.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\AvarageNumber\bin\Debug\netcoreapp3.1\AvarageNumber.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\AvarageNumber\obj\Debug\netcoreapp3.1\AvarageNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\AvarageNumber\obj\Debug\netcoreapp3.1\AvarageNumber.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\AvarageNumber\obj\Debug\netcoreapp3.1\AvarageNumber.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\AvarageNumber\obj\Debug\netcoreapp3.1\AvarageNumber.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\AvarageNumber\obj\Debug\netcoreapp3.1\AvarageNumber.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\AvarageNumber\obj\Debug\netcoreapp3.1\AvarageNumber.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\AvarageNumber\obj\Debug\netcoreapp3.1\AvarageNumber.genruntimeconfig.cache

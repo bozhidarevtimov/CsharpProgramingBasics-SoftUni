@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\FootbalLeague\bin\Debug\netcoreapp3.1\FootbalLeague.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\FootbalLeague\bin\Debug\netcoreapp3.1\FootbalLeague.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\FootbalLeague\bin\Debug\netcoreapp3.1\FootbalLeague.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\FootbalLeague\bin\Debug\netcoreapp3.1\FootbalLeague.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\FootbalLeague\bin\Debug\netcoreapp3.1\FootbalLeague.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\FootbalLeague\bin\Debug\netcoreapp3.1\FootbalLeague.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\FootbalLeague\obj\Debug\netcoreapp3.1\FootbalLeague.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\FootbalLeague\obj\Debug\netcoreapp3.1\FootbalLeague.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\FootbalLeague\obj\Debug\netcoreapp3.1\FootbalLeague.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\FootbalLeague\obj\Debug\netcoreapp3.1\FootbalLeague.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\FootbalLeague\obj\Debug\netcoreapp3.1\FootbalLeague.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\FootbalLeague\obj\Debug\netcoreapp3.1\FootbalLeague.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\FootbalLeague\obj\Debug\netcoreapp3.1\FootbalLeague.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\FootbalLeague\obj\Debug\netcoreapp3.1\FootbalLeague.genruntimeconfig.cache

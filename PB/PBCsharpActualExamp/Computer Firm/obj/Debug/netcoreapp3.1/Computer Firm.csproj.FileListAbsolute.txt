@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Computer Firm\bin\Debug\netcoreapp3.1\Computer Firm.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Computer Firm\bin\Debug\netcoreapp3.1\Computer Firm.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Computer Firm\bin\Debug\netcoreapp3.1\Computer Firm.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Computer Firm\bin\Debug\netcoreapp3.1\Computer Firm.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Computer Firm\bin\Debug\netcoreapp3.1\Computer Firm.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Computer Firm\bin\Debug\netcoreapp3.1\Computer Firm.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Computer Firm\obj\Debug\netcoreapp3.1\Computer Firm.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Computer Firm\obj\Debug\netcoreapp3.1\Computer Firm.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Computer Firm\obj\Debug\netcoreapp3.1\Computer Firm.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Computer Firm\obj\Debug\netcoreapp3.1\Computer Firm.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Computer Firm\obj\Debug\netcoreapp3.1\Computer Firm.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Computer Firm\obj\Debug\netcoreapp3.1\Computer Firm.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Computer Firm\obj\Debug\netcoreapp3.1\Computer Firm.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Computer Firm\obj\Debug\netcoreapp3.1\Computer Firm.genruntimeconfig.cache

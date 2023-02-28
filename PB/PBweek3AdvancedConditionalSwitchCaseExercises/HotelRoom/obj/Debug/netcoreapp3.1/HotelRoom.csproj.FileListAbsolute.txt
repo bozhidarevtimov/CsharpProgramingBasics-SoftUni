@@ -1,0 +1,14 @@
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.exe
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.deps.json
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.runtimeconfig.json
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.runtimeconfig.dev.json
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.dll
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.pdb
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.GeneratedMSBuildEditorConfig.editorconfig
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.AssemblyInfoInputs.cache
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.AssemblyInfo.cs
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.csproj.CoreCompileInputs.cache
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.dll
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.pdb
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.genruntimeconfig.cache
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\Match Tickets\bin\Debug\netcoreapp3.1\Match Tickets.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\Match Tickets\bin\Debug\netcoreapp3.1\Match Tickets.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\Match Tickets\bin\Debug\netcoreapp3.1\Match Tickets.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\Match Tickets\bin\Debug\netcoreapp3.1\Match Tickets.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\Match Tickets\bin\Debug\netcoreapp3.1\Match Tickets.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\Match Tickets\bin\Debug\netcoreapp3.1\Match Tickets.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\Match Tickets\obj\Debug\netcoreapp3.1\Match Tickets.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\Match Tickets\obj\Debug\netcoreapp3.1\Match Tickets.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\Match Tickets\obj\Debug\netcoreapp3.1\Match Tickets.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\Match Tickets\obj\Debug\netcoreapp3.1\Match Tickets.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\Match Tickets\obj\Debug\netcoreapp3.1\Match Tickets.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\Match Tickets\obj\Debug\netcoreapp3.1\Match Tickets.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\Match Tickets\obj\Debug\netcoreapp3.1\Match Tickets.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\Match Tickets\obj\Debug\netcoreapp3.1\Match Tickets.genruntimeconfig.cache

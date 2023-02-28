@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\TwoNumbersSum\bin\Debug\netcoreapp3.1\TwoNumbersSum.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\TwoNumbersSum\bin\Debug\netcoreapp3.1\TwoNumbersSum.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\TwoNumbersSum\bin\Debug\netcoreapp3.1\TwoNumbersSum.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\TwoNumbersSum\bin\Debug\netcoreapp3.1\TwoNumbersSum.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\TwoNumbersSum\bin\Debug\netcoreapp3.1\TwoNumbersSum.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\TwoNumbersSum\bin\Debug\netcoreapp3.1\TwoNumbersSum.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\TwoNumbersSum\obj\Debug\netcoreapp3.1\TwoNumbersSum.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\TwoNumbersSum\obj\Debug\netcoreapp3.1\TwoNumbersSum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\TwoNumbersSum\obj\Debug\netcoreapp3.1\TwoNumbersSum.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\TwoNumbersSum\obj\Debug\netcoreapp3.1\TwoNumbersSum.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\TwoNumbersSum\obj\Debug\netcoreapp3.1\TwoNumbersSum.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\TwoNumbersSum\obj\Debug\netcoreapp3.1\TwoNumbersSum.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\TwoNumbersSum\obj\Debug\netcoreapp3.1\TwoNumbersSum.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\TwoNumbersSum\obj\Debug\netcoreapp3.1\TwoNumbersSum.genruntimeconfig.cache

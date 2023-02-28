@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Cake\bin\Debug\netcoreapp3.1\Cake.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Cake\bin\Debug\netcoreapp3.1\Cake.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Cake\bin\Debug\netcoreapp3.1\Cake.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Cake\bin\Debug\netcoreapp3.1\Cake.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Cake\bin\Debug\netcoreapp3.1\Cake.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Cake\bin\Debug\netcoreapp3.1\Cake.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Cake\obj\Debug\netcoreapp3.1\Cake.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Cake\obj\Debug\netcoreapp3.1\Cake.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Cake\obj\Debug\netcoreapp3.1\Cake.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Cake\obj\Debug\netcoreapp3.1\Cake.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Cake\obj\Debug\netcoreapp3.1\Cake.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Cake\obj\Debug\netcoreapp3.1\Cake.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Cake\obj\Debug\netcoreapp3.1\Cake.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Cake\obj\Debug\netcoreapp3.1\Cake.genruntimeconfig.cache

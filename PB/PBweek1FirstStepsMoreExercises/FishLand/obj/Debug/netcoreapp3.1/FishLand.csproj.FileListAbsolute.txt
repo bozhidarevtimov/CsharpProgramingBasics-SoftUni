@@ -1,0 +1,13 @@
+E:\Users\user\Source\Repos\TrapeziodArea\FishLand\bin\Debug\netcoreapp3.1\FishLand.exe
+E:\Users\user\Source\Repos\TrapeziodArea\FishLand\bin\Debug\netcoreapp3.1\FishLand.deps.json
+E:\Users\user\Source\Repos\TrapeziodArea\FishLand\bin\Debug\netcoreapp3.1\FishLand.runtimeconfig.json
+E:\Users\user\Source\Repos\TrapeziodArea\FishLand\bin\Debug\netcoreapp3.1\FishLand.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\TrapeziodArea\FishLand\bin\Debug\netcoreapp3.1\FishLand.dll
+E:\Users\user\Source\Repos\TrapeziodArea\FishLand\bin\Debug\netcoreapp3.1\FishLand.pdb
+E:\Users\user\Source\Repos\TrapeziodArea\FishLand\obj\Debug\netcoreapp3.1\FishLand.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\TrapeziodArea\FishLand\obj\Debug\netcoreapp3.1\FishLand.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\TrapeziodArea\FishLand\obj\Debug\netcoreapp3.1\FishLand.AssemblyInfo.cs
+E:\Users\user\Source\Repos\TrapeziodArea\FishLand\obj\Debug\netcoreapp3.1\FishLand.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\TrapeziodArea\FishLand\obj\Debug\netcoreapp3.1\FishLand.dll
+E:\Users\user\Source\Repos\TrapeziodArea\FishLand\obj\Debug\netcoreapp3.1\FishLand.pdb
+E:\Users\user\Source\Repos\TrapeziodArea\FishLand\obj\Debug\netcoreapp3.1\FishLand.genruntimeconfig.cache

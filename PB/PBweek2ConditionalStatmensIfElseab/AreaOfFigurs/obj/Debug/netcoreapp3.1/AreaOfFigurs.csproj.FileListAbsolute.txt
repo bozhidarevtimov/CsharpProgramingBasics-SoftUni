@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\ExelentGrade\AreaOfFigurs\obj\Debug\netcoreapp3.1\AreaOfFigurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ExelentGrade\AreaOfFigurs\obj\Debug\netcoreapp3.1\AreaOfFigurs.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ExelentGrade\AreaOfFigurs\obj\Debug\netcoreapp3.1\AreaOfFigurs.AssemblyInfo.cs
+C:\Users\user\source\repos\ExelentGrade\AreaOfFigurs\obj\Debug\netcoreapp3.1\AreaOfFigurs.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExelentGrade\AreaOfFigurs\bin\Debug\netcoreapp3.1\AreaOfFigurs.exe
+C:\Users\user\source\repos\ExelentGrade\AreaOfFigurs\bin\Debug\netcoreapp3.1\AreaOfFigurs.deps.json
+C:\Users\user\source\repos\ExelentGrade\AreaOfFigurs\bin\Debug\netcoreapp3.1\AreaOfFigurs.runtimeconfig.json
+C:\Users\user\source\repos\ExelentGrade\AreaOfFigurs\bin\Debug\netcoreapp3.1\AreaOfFigurs.runtimeconfig.dev.json
+C:\Users\user\source\repos\ExelentGrade\AreaOfFigurs\bin\Debug\netcoreapp3.1\AreaOfFigurs.dll
+C:\Users\user\source\repos\ExelentGrade\AreaOfFigurs\bin\Debug\netcoreapp3.1\AreaOfFigurs.pdb
+C:\Users\user\source\repos\ExelentGrade\AreaOfFigurs\obj\Debug\netcoreapp3.1\AreaOfFigurs.dll
+C:\Users\user\source\repos\ExelentGrade\AreaOfFigurs\obj\Debug\netcoreapp3.1\AreaOfFigurs.pdb
+C:\Users\user\source\repos\ExelentGrade\AreaOfFigurs\obj\Debug\netcoreapp3.1\AreaOfFigurs.genruntimeconfig.cache

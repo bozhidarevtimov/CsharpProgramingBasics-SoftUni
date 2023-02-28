@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\FitnesCard\bin\Debug\netcoreapp3.1\FitnesCard.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\FitnesCard\bin\Debug\netcoreapp3.1\FitnesCard.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\FitnesCard\bin\Debug\netcoreapp3.1\FitnesCard.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\FitnesCard\bin\Debug\netcoreapp3.1\FitnesCard.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\FitnesCard\bin\Debug\netcoreapp3.1\FitnesCard.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\FitnesCard\bin\Debug\netcoreapp3.1\FitnesCard.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\FitnesCard\obj\Debug\netcoreapp3.1\FitnesCard.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\FitnesCard\obj\Debug\netcoreapp3.1\FitnesCard.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\FitnesCard\obj\Debug\netcoreapp3.1\FitnesCard.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\FitnesCard\obj\Debug\netcoreapp3.1\FitnesCard.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\FitnesCard\obj\Debug\netcoreapp3.1\FitnesCard.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\FitnesCard\obj\Debug\netcoreapp3.1\FitnesCard.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\FitnesCard\obj\Debug\netcoreapp3.1\FitnesCard.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\FitnesCard\obj\Debug\netcoreapp3.1\FitnesCard.genruntimeconfig.cache

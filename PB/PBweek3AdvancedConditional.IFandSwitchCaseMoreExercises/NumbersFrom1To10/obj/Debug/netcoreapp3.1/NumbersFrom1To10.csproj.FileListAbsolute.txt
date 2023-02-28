@@ -1,0 +1,13 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\NumbersFrom1To10\bin\Debug\netcoreapp3.1\NumbersFrom1To10.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\NumbersFrom1To10\bin\Debug\netcoreapp3.1\NumbersFrom1To10.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\NumbersFrom1To10\bin\Debug\netcoreapp3.1\NumbersFrom1To10.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\NumbersFrom1To10\bin\Debug\netcoreapp3.1\NumbersFrom1To10.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\NumbersFrom1To10\bin\Debug\netcoreapp3.1\NumbersFrom1To10.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\NumbersFrom1To10\bin\Debug\netcoreapp3.1\NumbersFrom1To10.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\NumbersFrom1To10\obj\Debug\netcoreapp3.1\NumbersFrom1To10.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\NumbersFrom1To10\obj\Debug\netcoreapp3.1\NumbersFrom1To10.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\NumbersFrom1To10\obj\Debug\netcoreapp3.1\NumbersFrom1To10.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\NumbersFrom1To10\obj\Debug\netcoreapp3.1\NumbersFrom1To10.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\NumbersFrom1To10\obj\Debug\netcoreapp3.1\NumbersFrom1To10.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\NumbersFrom1To10\obj\Debug\netcoreapp3.1\NumbersFrom1To10.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\NumbersFrom1To10\obj\Debug\netcoreapp3.1\NumbersFrom1To10.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\TrickDriver\bin\Debug\netcoreapp3.1\TrickDriver.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\TrickDriver\bin\Debug\netcoreapp3.1\TrickDriver.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\TrickDriver\bin\Debug\netcoreapp3.1\TrickDriver.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\TrickDriver\bin\Debug\netcoreapp3.1\TrickDriver.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\TrickDriver\bin\Debug\netcoreapp3.1\TrickDriver.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\TrickDriver\bin\Debug\netcoreapp3.1\TrickDriver.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\TrickDriver\obj\Debug\netcoreapp3.1\TrickDriver.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\TrickDriver\obj\Debug\netcoreapp3.1\TrickDriver.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\TrickDriver\obj\Debug\netcoreapp3.1\TrickDriver.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\TrickDriver\obj\Debug\netcoreapp3.1\TrickDriver.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\TrickDriver\obj\Debug\netcoreapp3.1\TrickDriver.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\TrickDriver\obj\Debug\netcoreapp3.1\TrickDriver.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\TrickDriver\obj\Debug\netcoreapp3.1\TrickDriver.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\TrickDriver\obj\Debug\netcoreapp3.1\TrickDriver.genruntimeconfig.cache

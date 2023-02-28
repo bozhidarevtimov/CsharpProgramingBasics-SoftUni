@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.genruntimeconfig.cache

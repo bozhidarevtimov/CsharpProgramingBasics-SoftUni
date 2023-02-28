@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Logistic\bin\Debug\netcoreapp3.1\Logistic.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Logistic\bin\Debug\netcoreapp3.1\Logistic.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Logistic\bin\Debug\netcoreapp3.1\Logistic.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Logistic\bin\Debug\netcoreapp3.1\Logistic.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Logistic\bin\Debug\netcoreapp3.1\Logistic.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Logistic\bin\Debug\netcoreapp3.1\Logistic.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Logistic\obj\Debug\netcoreapp3.1\Logistic.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Logistic\obj\Debug\netcoreapp3.1\Logistic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Logistic\obj\Debug\netcoreapp3.1\Logistic.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Logistic\obj\Debug\netcoreapp3.1\Logistic.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Logistic\obj\Debug\netcoreapp3.1\Logistic.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Logistic\obj\Debug\netcoreapp3.1\Logistic.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Logistic\obj\Debug\netcoreapp3.1\Logistic.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Logistic\obj\Debug\netcoreapp3.1\Logistic.genruntimeconfig.cache

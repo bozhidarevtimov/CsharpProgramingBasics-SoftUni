@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\demo\radians to degrees\bin\Debug\netcoreapp3.1\radians to degrees.exe
+C:\Users\user\source\repos\demo\radians to degrees\bin\Debug\netcoreapp3.1\radians to degrees.deps.json
+C:\Users\user\source\repos\demo\radians to degrees\bin\Debug\netcoreapp3.1\radians to degrees.runtimeconfig.json
+C:\Users\user\source\repos\demo\radians to degrees\bin\Debug\netcoreapp3.1\radians to degrees.runtimeconfig.dev.json
+C:\Users\user\source\repos\demo\radians to degrees\bin\Debug\netcoreapp3.1\radians to degrees.dll
+C:\Users\user\source\repos\demo\radians to degrees\bin\Debug\netcoreapp3.1\radians to degrees.pdb
+C:\Users\user\source\repos\demo\radians to degrees\obj\Debug\netcoreapp3.1\radians to degrees.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\demo\radians to degrees\obj\Debug\netcoreapp3.1\radians to degrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\demo\radians to degrees\obj\Debug\netcoreapp3.1\radians to degrees.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\demo\radians to degrees\obj\Debug\netcoreapp3.1\radians to degrees.AssemblyInfo.cs
+C:\Users\user\source\repos\demo\radians to degrees\obj\Debug\netcoreapp3.1\radians to degrees.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\demo\radians to degrees\obj\Debug\netcoreapp3.1\radians to degrees.dll
+C:\Users\user\source\repos\demo\radians to degrees\obj\Debug\netcoreapp3.1\radians to degrees.pdb
+C:\Users\user\source\repos\demo\radians to degrees\obj\Debug\netcoreapp3.1\radians to degrees.genruntimeconfig.cache

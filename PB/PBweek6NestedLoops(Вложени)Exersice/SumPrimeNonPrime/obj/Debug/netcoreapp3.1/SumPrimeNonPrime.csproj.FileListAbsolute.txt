@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\SumPrimeNonPrime\bin\Debug\netcoreapp3.1\SumPrimeNonPrime.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\SumPrimeNonPrime\bin\Debug\netcoreapp3.1\SumPrimeNonPrime.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\SumPrimeNonPrime\bin\Debug\netcoreapp3.1\SumPrimeNonPrime.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\SumPrimeNonPrime\bin\Debug\netcoreapp3.1\SumPrimeNonPrime.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\SumPrimeNonPrime\bin\Debug\netcoreapp3.1\SumPrimeNonPrime.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\SumPrimeNonPrime\bin\Debug\netcoreapp3.1\SumPrimeNonPrime.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.genruntimeconfig.cache

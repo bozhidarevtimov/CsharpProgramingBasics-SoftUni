@@ -1,0 +1,13 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.genruntimeconfig.cache

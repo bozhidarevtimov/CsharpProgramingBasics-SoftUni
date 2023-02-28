@@ -1,0 +1,13 @@
+e:\Users\user\source\repos\SoftUniWeek2Exercise\Shopping\bin\Debug\netcoreapp3.1\Shopping.exe
+e:\Users\user\source\repos\SoftUniWeek2Exercise\Shopping\bin\Debug\netcoreapp3.1\Shopping.deps.json
+e:\Users\user\source\repos\SoftUniWeek2Exercise\Shopping\bin\Debug\netcoreapp3.1\Shopping.runtimeconfig.json
+e:\Users\user\source\repos\SoftUniWeek2Exercise\Shopping\bin\Debug\netcoreapp3.1\Shopping.runtimeconfig.dev.json
+e:\Users\user\source\repos\SoftUniWeek2Exercise\Shopping\bin\Debug\netcoreapp3.1\Shopping.dll
+e:\Users\user\source\repos\SoftUniWeek2Exercise\Shopping\bin\Debug\netcoreapp3.1\Shopping.pdb
+e:\Users\user\source\repos\SoftUniWeek2Exercise\Shopping\obj\Debug\netcoreapp3.1\Shopping.GeneratedMSBuildEditorConfig.editorconfig
+e:\Users\user\source\repos\SoftUniWeek2Exercise\Shopping\obj\Debug\netcoreapp3.1\Shopping.AssemblyInfoInputs.cache
+e:\Users\user\source\repos\SoftUniWeek2Exercise\Shopping\obj\Debug\netcoreapp3.1\Shopping.AssemblyInfo.cs
+e:\Users\user\source\repos\SoftUniWeek2Exercise\Shopping\obj\Debug\netcoreapp3.1\Shopping.csproj.CoreCompileInputs.cache
+e:\Users\user\source\repos\SoftUniWeek2Exercise\Shopping\obj\Debug\netcoreapp3.1\Shopping.dll
+e:\Users\user\source\repos\SoftUniWeek2Exercise\Shopping\obj\Debug\netcoreapp3.1\Shopping.pdb
+e:\Users\user\source\repos\SoftUniWeek2Exercise\Shopping\obj\Debug\netcoreapp3.1\Shopping.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\demo\Vacation book list\bin\Debug\netcoreapp3.1\Vacation book list.exe
+C:\Users\user\source\repos\demo\Vacation book list\bin\Debug\netcoreapp3.1\Vacation book list.deps.json
+C:\Users\user\source\repos\demo\Vacation book list\bin\Debug\netcoreapp3.1\Vacation book list.runtimeconfig.json
+C:\Users\user\source\repos\demo\Vacation book list\bin\Debug\netcoreapp3.1\Vacation book list.runtimeconfig.dev.json
+C:\Users\user\source\repos\demo\Vacation book list\bin\Debug\netcoreapp3.1\Vacation book list.dll
+C:\Users\user\source\repos\demo\Vacation book list\bin\Debug\netcoreapp3.1\Vacation book list.pdb
+C:\Users\user\source\repos\demo\Vacation book list\obj\Debug\netcoreapp3.1\Vacation book list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\demo\Vacation book list\obj\Debug\netcoreapp3.1\Vacation book list.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\demo\Vacation book list\obj\Debug\netcoreapp3.1\Vacation book list.AssemblyInfo.cs
+C:\Users\user\source\repos\demo\Vacation book list\obj\Debug\netcoreapp3.1\Vacation book list.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\demo\Vacation book list\obj\Debug\netcoreapp3.1\Vacation book list.dll
+C:\Users\user\source\repos\demo\Vacation book list\obj\Debug\netcoreapp3.1\Vacation book list.pdb
+C:\Users\user\source\repos\demo\Vacation book list\obj\Debug\netcoreapp3.1\Vacation book list.genruntimeconfig.cache

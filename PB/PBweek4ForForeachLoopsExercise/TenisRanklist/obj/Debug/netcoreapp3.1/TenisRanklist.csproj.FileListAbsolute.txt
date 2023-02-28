@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\TenisRanklist\bin\Debug\netcoreapp3.1\TenisRanklist.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\TenisRanklist\bin\Debug\netcoreapp3.1\TenisRanklist.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\TenisRanklist\bin\Debug\netcoreapp3.1\TenisRanklist.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\TenisRanklist\bin\Debug\netcoreapp3.1\TenisRanklist.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\TenisRanklist\bin\Debug\netcoreapp3.1\TenisRanklist.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\TenisRanklist\bin\Debug\netcoreapp3.1\TenisRanklist.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\TenisRanklist\obj\Debug\netcoreapp3.1\TenisRanklist.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\TenisRanklist\obj\Debug\netcoreapp3.1\TenisRanklist.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\TenisRanklist\obj\Debug\netcoreapp3.1\TenisRanklist.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\TenisRanklist\obj\Debug\netcoreapp3.1\TenisRanklist.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\TenisRanklist\obj\Debug\netcoreapp3.1\TenisRanklist.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\TenisRanklist\obj\Debug\netcoreapp3.1\TenisRanklist.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\TenisRanklist\obj\Debug\netcoreapp3.1\TenisRanklist.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\TenisRanklist\obj\Debug\netcoreapp3.1\TenisRanklist.genruntimeconfig.cache

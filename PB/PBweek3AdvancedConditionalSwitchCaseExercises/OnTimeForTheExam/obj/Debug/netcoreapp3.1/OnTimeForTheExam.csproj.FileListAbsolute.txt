@@ -1,0 +1,14 @@
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.csproj.AssemblyReference.cache
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.GeneratedMSBuildEditorConfig.editorconfig
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.AssemblyInfoInputs.cache
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.AssemblyInfo.cs
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.csproj.CoreCompileInputs.cache
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.exe
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.deps.json
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.runtimeconfig.json
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.runtimeconfig.dev.json
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.dll
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.pdb
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.dll
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.pdb
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.genruntimeconfig.cache

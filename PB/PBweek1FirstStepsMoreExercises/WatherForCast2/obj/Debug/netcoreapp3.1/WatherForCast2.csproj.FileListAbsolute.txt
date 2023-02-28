@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\TrapeziodArea\WatherForCast2\bin\Debug\netcoreapp3.1\WatherForCast2.exe
+E:\Users\user\Source\Repos\TrapeziodArea\WatherForCast2\bin\Debug\netcoreapp3.1\WatherForCast2.deps.json
+E:\Users\user\Source\Repos\TrapeziodArea\WatherForCast2\bin\Debug\netcoreapp3.1\WatherForCast2.runtimeconfig.json
+E:\Users\user\Source\Repos\TrapeziodArea\WatherForCast2\bin\Debug\netcoreapp3.1\WatherForCast2.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\TrapeziodArea\WatherForCast2\bin\Debug\netcoreapp3.1\WatherForCast2.dll
+E:\Users\user\Source\Repos\TrapeziodArea\WatherForCast2\bin\Debug\netcoreapp3.1\WatherForCast2.pdb
+E:\Users\user\Source\Repos\TrapeziodArea\WatherForCast2\obj\Debug\netcoreapp3.1\WatherForCast2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\TrapeziodArea\WatherForCast2\obj\Debug\netcoreapp3.1\WatherForCast2.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\TrapeziodArea\WatherForCast2\obj\Debug\netcoreapp3.1\WatherForCast2.AssemblyInfo.cs
+E:\Users\user\Source\Repos\TrapeziodArea\WatherForCast2\obj\Debug\netcoreapp3.1\WatherForCast2.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\TrapeziodArea\WatherForCast2\obj\Debug\netcoreapp3.1\WatherForCast2.dll
+E:\Users\user\Source\Repos\TrapeziodArea\WatherForCast2\obj\Debug\netcoreapp3.1\WatherForCast2.pdb
+E:\Users\user\Source\Repos\TrapeziodArea\WatherForCast2\obj\Debug\netcoreapp3.1\WatherForCast2.genruntimeconfig.cache
+E:\Users\user\Source\Repos\TrapeziodArea\WatherForCast2\obj\Debug\netcoreapp3.1\WatherForCast2.csproj.AssemblyReference.cache

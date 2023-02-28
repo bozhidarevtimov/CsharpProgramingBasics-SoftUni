@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\TreckingMania\bin\Debug\netcoreapp3.1\TreckingMania.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\TreckingMania\bin\Debug\netcoreapp3.1\TreckingMania.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\TreckingMania\bin\Debug\netcoreapp3.1\TreckingMania.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\TreckingMania\bin\Debug\netcoreapp3.1\TreckingMania.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\TreckingMania\bin\Debug\netcoreapp3.1\TreckingMania.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\TreckingMania\bin\Debug\netcoreapp3.1\TreckingMania.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\TreckingMania\obj\Debug\netcoreapp3.1\TreckingMania.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\TreckingMania\obj\Debug\netcoreapp3.1\TreckingMania.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\TreckingMania\obj\Debug\netcoreapp3.1\TreckingMania.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\TreckingMania\obj\Debug\netcoreapp3.1\TreckingMania.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\TreckingMania\obj\Debug\netcoreapp3.1\TreckingMania.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\TreckingMania\obj\Debug\netcoreapp3.1\TreckingMania.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\TreckingMania\obj\Debug\netcoreapp3.1\TreckingMania.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\TreckingMania\obj\Debug\netcoreapp3.1\TreckingMania.genruntimeconfig.cache

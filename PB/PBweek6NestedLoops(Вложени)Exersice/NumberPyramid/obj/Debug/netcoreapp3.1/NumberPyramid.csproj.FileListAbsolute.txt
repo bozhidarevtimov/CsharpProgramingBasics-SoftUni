@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\NumberPyramid\bin\Debug\netcoreapp3.1\NumberPyramid.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\NumberPyramid\bin\Debug\netcoreapp3.1\NumberPyramid.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\NumberPyramid\bin\Debug\netcoreapp3.1\NumberPyramid.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\NumberPyramid\bin\Debug\netcoreapp3.1\NumberPyramid.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\NumberPyramid\bin\Debug\netcoreapp3.1\NumberPyramid.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\NumberPyramid\bin\Debug\netcoreapp3.1\NumberPyramid.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\NumberPyramid\obj\Debug\netcoreapp3.1\NumberPyramid.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\NumberPyramid\obj\Debug\netcoreapp3.1\NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\NumberPyramid\obj\Debug\netcoreapp3.1\NumberPyramid.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\NumberPyramid\obj\Debug\netcoreapp3.1\NumberPyramid.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\NumberPyramid\obj\Debug\netcoreapp3.1\NumberPyramid.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\NumberPyramid\obj\Debug\netcoreapp3.1\NumberPyramid.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\NumberPyramid\obj\Debug\netcoreapp3.1\NumberPyramid.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\NumberPyramid\obj\Debug\netcoreapp3.1\NumberPyramid.genruntimeconfig.cache

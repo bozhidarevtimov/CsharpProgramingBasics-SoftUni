@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\TrapeziodArea\Triangle area\bin\Debug\netcoreapp3.1\Triangle area.exe
+E:\Users\user\Source\Repos\TrapeziodArea\Triangle area\bin\Debug\netcoreapp3.1\Triangle area.deps.json
+E:\Users\user\Source\Repos\TrapeziodArea\Triangle area\bin\Debug\netcoreapp3.1\Triangle area.runtimeconfig.json
+E:\Users\user\Source\Repos\TrapeziodArea\Triangle area\bin\Debug\netcoreapp3.1\Triangle area.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\TrapeziodArea\Triangle area\bin\Debug\netcoreapp3.1\Triangle area.dll
+E:\Users\user\Source\Repos\TrapeziodArea\Triangle area\bin\Debug\netcoreapp3.1\Triangle area.pdb
+E:\Users\user\Source\Repos\TrapeziodArea\Triangle area\obj\Debug\netcoreapp3.1\Triangle area.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\TrapeziodArea\Triangle area\obj\Debug\netcoreapp3.1\Triangle area.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\TrapeziodArea\Triangle area\obj\Debug\netcoreapp3.1\Triangle area.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\TrapeziodArea\Triangle area\obj\Debug\netcoreapp3.1\Triangle area.AssemblyInfo.cs
+E:\Users\user\Source\Repos\TrapeziodArea\Triangle area\obj\Debug\netcoreapp3.1\Triangle area.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\TrapeziodArea\Triangle area\obj\Debug\netcoreapp3.1\Triangle area.dll
+E:\Users\user\Source\Repos\TrapeziodArea\Triangle area\obj\Debug\netcoreapp3.1\Triangle area.pdb
+E:\Users\user\Source\Repos\TrapeziodArea\Triangle area\obj\Debug\netcoreapp3.1\Triangle area.genruntimeconfig.cache

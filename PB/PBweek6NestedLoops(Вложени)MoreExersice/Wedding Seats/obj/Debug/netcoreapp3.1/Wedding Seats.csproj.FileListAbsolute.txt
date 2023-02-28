@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Wedding Seats\bin\Debug\netcoreapp3.1\Wedding Seats.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Wedding Seats\bin\Debug\netcoreapp3.1\Wedding Seats.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Wedding Seats\bin\Debug\netcoreapp3.1\Wedding Seats.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Wedding Seats\bin\Debug\netcoreapp3.1\Wedding Seats.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Wedding Seats\bin\Debug\netcoreapp3.1\Wedding Seats.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Wedding Seats\bin\Debug\netcoreapp3.1\Wedding Seats.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Wedding Seats\obj\Debug\netcoreapp3.1\Wedding Seats.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Wedding Seats\obj\Debug\netcoreapp3.1\Wedding Seats.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Wedding Seats\obj\Debug\netcoreapp3.1\Wedding Seats.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Wedding Seats\obj\Debug\netcoreapp3.1\Wedding Seats.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Wedding Seats\obj\Debug\netcoreapp3.1\Wedding Seats.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Wedding Seats\obj\Debug\netcoreapp3.1\Wedding Seats.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Wedding Seats\obj\Debug\netcoreapp3.1\Wedding Seats.genruntimeconfig.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Wedding Seats\obj\Debug\netcoreapp3.1\Wedding Seats.csproj.AssemblyReference.cache

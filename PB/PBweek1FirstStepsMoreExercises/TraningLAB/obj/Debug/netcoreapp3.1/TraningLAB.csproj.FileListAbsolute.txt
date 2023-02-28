@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\TrapeziodArea\TraningLAB\bin\Debug\netcoreapp3.1\TraningLAB.exe
+E:\Users\user\Source\Repos\TrapeziodArea\TraningLAB\bin\Debug\netcoreapp3.1\TraningLAB.deps.json
+E:\Users\user\Source\Repos\TrapeziodArea\TraningLAB\bin\Debug\netcoreapp3.1\TraningLAB.runtimeconfig.json
+E:\Users\user\Source\Repos\TrapeziodArea\TraningLAB\bin\Debug\netcoreapp3.1\TraningLAB.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\TrapeziodArea\TraningLAB\bin\Debug\netcoreapp3.1\TraningLAB.dll
+E:\Users\user\Source\Repos\TrapeziodArea\TraningLAB\bin\Debug\netcoreapp3.1\TraningLAB.pdb
+E:\Users\user\Source\Repos\TrapeziodArea\TraningLAB\obj\Debug\netcoreapp3.1\TraningLAB.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\TrapeziodArea\TraningLAB\obj\Debug\netcoreapp3.1\TraningLAB.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\TrapeziodArea\TraningLAB\obj\Debug\netcoreapp3.1\TraningLAB.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\TrapeziodArea\TraningLAB\obj\Debug\netcoreapp3.1\TraningLAB.AssemblyInfo.cs
+E:\Users\user\Source\Repos\TrapeziodArea\TraningLAB\obj\Debug\netcoreapp3.1\TraningLAB.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\TrapeziodArea\TraningLAB\obj\Debug\netcoreapp3.1\TraningLAB.dll
+E:\Users\user\Source\Repos\TrapeziodArea\TraningLAB\obj\Debug\netcoreapp3.1\TraningLAB.pdb
+E:\Users\user\Source\Repos\TrapeziodArea\TraningLAB\obj\Debug\netcoreapp3.1\TraningLAB.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\ASKIITableSymbols\bin\Debug\netcoreapp3.1\ASKIITableSymbols.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\ASKIITableSymbols\bin\Debug\netcoreapp3.1\ASKIITableSymbols.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\ASKIITableSymbols\bin\Debug\netcoreapp3.1\ASKIITableSymbols.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\ASKIITableSymbols\bin\Debug\netcoreapp3.1\ASKIITableSymbols.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\ASKIITableSymbols\bin\Debug\netcoreapp3.1\ASKIITableSymbols.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\ASKIITableSymbols\bin\Debug\netcoreapp3.1\ASKIITableSymbols.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\ASKIITableSymbols\obj\Debug\netcoreapp3.1\ASKIITableSymbols.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\ASKIITableSymbols\obj\Debug\netcoreapp3.1\ASKIITableSymbols.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\ASKIITableSymbols\obj\Debug\netcoreapp3.1\ASKIITableSymbols.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\ASKIITableSymbols\obj\Debug\netcoreapp3.1\ASKIITableSymbols.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\ASKIITableSymbols\obj\Debug\netcoreapp3.1\ASKIITableSymbols.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\ASKIITableSymbols\obj\Debug\netcoreapp3.1\ASKIITableSymbols.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\ASKIITableSymbols\obj\Debug\netcoreapp3.1\ASKIITableSymbols.genruntimeconfig.cache

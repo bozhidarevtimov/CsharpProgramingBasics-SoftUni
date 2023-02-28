@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.genruntimeconfig.cache

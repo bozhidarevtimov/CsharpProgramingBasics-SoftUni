@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\MultiplyTable\bin\Debug\netcoreapp3.1\MultiplyTable.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\MultiplyTable\bin\Debug\netcoreapp3.1\MultiplyTable.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\MultiplyTable\bin\Debug\netcoreapp3.1\MultiplyTable.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\MultiplyTable\bin\Debug\netcoreapp3.1\MultiplyTable.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\MultiplyTable\bin\Debug\netcoreapp3.1\MultiplyTable.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\MultiplyTable\bin\Debug\netcoreapp3.1\MultiplyTable.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\MultiplyTable\obj\Debug\netcoreapp3.1\MultiplyTable.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\MultiplyTable\obj\Debug\netcoreapp3.1\MultiplyTable.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\MultiplyTable\obj\Debug\netcoreapp3.1\MultiplyTable.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\MultiplyTable\obj\Debug\netcoreapp3.1\MultiplyTable.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\MultiplyTable\obj\Debug\netcoreapp3.1\MultiplyTable.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\MultiplyTable\obj\Debug\netcoreapp3.1\MultiplyTable.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\MultiplyTable\obj\Debug\netcoreapp3.1\MultiplyTable.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\MultiplyTable\obj\Debug\netcoreapp3.1\MultiplyTable.genruntimeconfig.cache

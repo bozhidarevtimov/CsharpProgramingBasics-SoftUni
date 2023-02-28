@@ -1,0 +1,14 @@
+e:\Users\user\source\repos\CSharpBasics-FirstStepsInCoding-Lab\P02.Num1to10\bin\Debug\netcoreapp3.1\P02.Num1to10.exe
+e:\Users\user\source\repos\CSharpBasics-FirstStepsInCoding-Lab\P02.Num1to10\bin\Debug\netcoreapp3.1\P02.Num1to10.deps.json
+e:\Users\user\source\repos\CSharpBasics-FirstStepsInCoding-Lab\P02.Num1to10\bin\Debug\netcoreapp3.1\P02.Num1to10.runtimeconfig.json
+e:\Users\user\source\repos\CSharpBasics-FirstStepsInCoding-Lab\P02.Num1to10\bin\Debug\netcoreapp3.1\P02.Num1to10.runtimeconfig.dev.json
+e:\Users\user\source\repos\CSharpBasics-FirstStepsInCoding-Lab\P02.Num1to10\bin\Debug\netcoreapp3.1\P02.Num1to10.dll
+e:\Users\user\source\repos\CSharpBasics-FirstStepsInCoding-Lab\P02.Num1to10\bin\Debug\netcoreapp3.1\P02.Num1to10.pdb
+e:\Users\user\source\repos\CSharpBasics-FirstStepsInCoding-Lab\P02.Num1to10\obj\Debug\netcoreapp3.1\P02.Num1to10.csproj.AssemblyReference.cache
+e:\Users\user\source\repos\CSharpBasics-FirstStepsInCoding-Lab\P02.Num1to10\obj\Debug\netcoreapp3.1\P02.Num1to10.GeneratedMSBuildEditorConfig.editorconfig
+e:\Users\user\source\repos\CSharpBasics-FirstStepsInCoding-Lab\P02.Num1to10\obj\Debug\netcoreapp3.1\P02.Num1to10.AssemblyInfoInputs.cache
+e:\Users\user\source\repos\CSharpBasics-FirstStepsInCoding-Lab\P02.Num1to10\obj\Debug\netcoreapp3.1\P02.Num1to10.AssemblyInfo.cs
+e:\Users\user\source\repos\CSharpBasics-FirstStepsInCoding-Lab\P02.Num1to10\obj\Debug\netcoreapp3.1\P02.Num1to10.csproj.CoreCompileInputs.cache
+e:\Users\user\source\repos\CSharpBasics-FirstStepsInCoding-Lab\P02.Num1to10\obj\Debug\netcoreapp3.1\P02.Num1to10.dll
+e:\Users\user\source\repos\CSharpBasics-FirstStepsInCoding-Lab\P02.Num1to10\obj\Debug\netcoreapp3.1\P02.Num1to10.pdb
+e:\Users\user\source\repos\CSharpBasics-FirstStepsInCoding-Lab\P02.Num1to10\obj\Debug\netcoreapp3.1\P02.Num1to10.genruntimeconfig.cache

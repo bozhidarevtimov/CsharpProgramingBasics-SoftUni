@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\StreamOfLetters\bin\Debug\netcoreapp3.1\StreamOfLetters.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\StreamOfLetters\bin\Debug\netcoreapp3.1\StreamOfLetters.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\StreamOfLetters\bin\Debug\netcoreapp3.1\StreamOfLetters.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\StreamOfLetters\bin\Debug\netcoreapp3.1\StreamOfLetters.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\StreamOfLetters\bin\Debug\netcoreapp3.1\StreamOfLetters.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\StreamOfLetters\bin\Debug\netcoreapp3.1\StreamOfLetters.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\StreamOfLetters\obj\Debug\netcoreapp3.1\StreamOfLetters.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\StreamOfLetters\obj\Debug\netcoreapp3.1\StreamOfLetters.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\StreamOfLetters\obj\Debug\netcoreapp3.1\StreamOfLetters.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\StreamOfLetters\obj\Debug\netcoreapp3.1\StreamOfLetters.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\StreamOfLetters\obj\Debug\netcoreapp3.1\StreamOfLetters.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\StreamOfLetters\obj\Debug\netcoreapp3.1\StreamOfLetters.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\StreamOfLetters\obj\Debug\netcoreapp3.1\StreamOfLetters.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\StreamOfLetters\obj\Debug\netcoreapp3.1\StreamOfLetters.genruntimeconfig.cache

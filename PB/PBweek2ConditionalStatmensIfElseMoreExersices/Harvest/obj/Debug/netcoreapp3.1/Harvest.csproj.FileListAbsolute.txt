@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\PBweek2MoreExersices\Harvest\bin\Debug\netcoreapp3.1\Harvest.exe
+C:\Users\user\source\repos\PBweek2MoreExersices\Harvest\bin\Debug\netcoreapp3.1\Harvest.deps.json
+C:\Users\user\source\repos\PBweek2MoreExersices\Harvest\bin\Debug\netcoreapp3.1\Harvest.runtimeconfig.json
+C:\Users\user\source\repos\PBweek2MoreExersices\Harvest\bin\Debug\netcoreapp3.1\Harvest.runtimeconfig.dev.json
+C:\Users\user\source\repos\PBweek2MoreExersices\Harvest\bin\Debug\netcoreapp3.1\Harvest.dll
+C:\Users\user\source\repos\PBweek2MoreExersices\Harvest\bin\Debug\netcoreapp3.1\Harvest.pdb
+C:\Users\user\source\repos\PBweek2MoreExersices\Harvest\obj\Debug\netcoreapp3.1\Harvest.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PBweek2MoreExersices\Harvest\obj\Debug\netcoreapp3.1\Harvest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\PBweek2MoreExersices\Harvest\obj\Debug\netcoreapp3.1\Harvest.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PBweek2MoreExersices\Harvest\obj\Debug\netcoreapp3.1\Harvest.AssemblyInfo.cs
+C:\Users\user\source\repos\PBweek2MoreExersices\Harvest\obj\Debug\netcoreapp3.1\Harvest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PBweek2MoreExersices\Harvest\obj\Debug\netcoreapp3.1\Harvest.dll
+C:\Users\user\source\repos\PBweek2MoreExersices\Harvest\obj\Debug\netcoreapp3.1\Harvest.pdb
+C:\Users\user\source\repos\PBweek2MoreExersices\Harvest\obj\Debug\netcoreapp3.1\Harvest.genruntimeconfig.cache

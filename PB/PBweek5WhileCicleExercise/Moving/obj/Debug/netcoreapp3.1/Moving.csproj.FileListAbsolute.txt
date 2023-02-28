@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Moving\bin\Debug\netcoreapp3.1\Moving.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Moving\bin\Debug\netcoreapp3.1\Moving.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Moving\bin\Debug\netcoreapp3.1\Moving.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Moving\bin\Debug\netcoreapp3.1\Moving.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Moving\bin\Debug\netcoreapp3.1\Moving.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Moving\bin\Debug\netcoreapp3.1\Moving.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Moving\obj\Debug\netcoreapp3.1\Moving.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Moving\obj\Debug\netcoreapp3.1\Moving.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Moving\obj\Debug\netcoreapp3.1\Moving.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Moving\obj\Debug\netcoreapp3.1\Moving.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Moving\obj\Debug\netcoreapp3.1\Moving.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Moving\obj\Debug\netcoreapp3.1\Moving.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Moving\obj\Debug\netcoreapp3.1\Moving.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleExercise\Moving\obj\Debug\netcoreapp3.1\Moving.genruntimeconfig.cache

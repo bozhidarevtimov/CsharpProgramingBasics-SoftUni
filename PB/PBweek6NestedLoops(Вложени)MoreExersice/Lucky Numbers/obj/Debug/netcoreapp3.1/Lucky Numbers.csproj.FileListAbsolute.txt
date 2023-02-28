@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Lucky Numbers\bin\Debug\netcoreapp3.1\Lucky Numbers.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Lucky Numbers\bin\Debug\netcoreapp3.1\Lucky Numbers.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Lucky Numbers\bin\Debug\netcoreapp3.1\Lucky Numbers.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Lucky Numbers\bin\Debug\netcoreapp3.1\Lucky Numbers.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Lucky Numbers\bin\Debug\netcoreapp3.1\Lucky Numbers.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Lucky Numbers\bin\Debug\netcoreapp3.1\Lucky Numbers.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Lucky Numbers\obj\Debug\netcoreapp3.1\Lucky Numbers.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Lucky Numbers\obj\Debug\netcoreapp3.1\Lucky Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Lucky Numbers\obj\Debug\netcoreapp3.1\Lucky Numbers.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Lucky Numbers\obj\Debug\netcoreapp3.1\Lucky Numbers.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Lucky Numbers\obj\Debug\netcoreapp3.1\Lucky Numbers.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Lucky Numbers\obj\Debug\netcoreapp3.1\Lucky Numbers.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Lucky Numbers\obj\Debug\netcoreapp3.1\Lucky Numbers.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Lucky Numbers\obj\Debug\netcoreapp3.1\Lucky Numbers.genruntimeconfig.cache

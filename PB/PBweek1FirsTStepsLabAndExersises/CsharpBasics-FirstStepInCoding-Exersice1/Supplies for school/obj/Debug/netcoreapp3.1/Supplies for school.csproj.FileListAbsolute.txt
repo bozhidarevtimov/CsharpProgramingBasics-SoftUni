@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\demo\Supplies for school\bin\Debug\netcoreapp3.1\Supplies for school.exe
+C:\Users\user\source\repos\demo\Supplies for school\bin\Debug\netcoreapp3.1\Supplies for school.deps.json
+C:\Users\user\source\repos\demo\Supplies for school\bin\Debug\netcoreapp3.1\Supplies for school.runtimeconfig.json
+C:\Users\user\source\repos\demo\Supplies for school\bin\Debug\netcoreapp3.1\Supplies for school.runtimeconfig.dev.json
+C:\Users\user\source\repos\demo\Supplies for school\bin\Debug\netcoreapp3.1\Supplies for school.dll
+C:\Users\user\source\repos\demo\Supplies for school\bin\Debug\netcoreapp3.1\Supplies for school.pdb
+C:\Users\user\source\repos\demo\Supplies for school\obj\Debug\netcoreapp3.1\Supplies for school.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\demo\Supplies for school\obj\Debug\netcoreapp3.1\Supplies for school.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\demo\Supplies for school\obj\Debug\netcoreapp3.1\Supplies for school.AssemblyInfo.cs
+C:\Users\user\source\repos\demo\Supplies for school\obj\Debug\netcoreapp3.1\Supplies for school.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\demo\Supplies for school\obj\Debug\netcoreapp3.1\Supplies for school.dll
+C:\Users\user\source\repos\demo\Supplies for school\obj\Debug\netcoreapp3.1\Supplies for school.pdb
+C:\Users\user\source\repos\demo\Supplies for school\obj\Debug\netcoreapp3.1\Supplies for school.genruntimeconfig.cache

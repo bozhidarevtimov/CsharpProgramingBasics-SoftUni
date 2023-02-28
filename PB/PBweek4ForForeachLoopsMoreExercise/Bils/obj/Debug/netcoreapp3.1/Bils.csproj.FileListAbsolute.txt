@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Bils\bin\Debug\netcoreapp3.1\Bils.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Bils\bin\Debug\netcoreapp3.1\Bils.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Bils\bin\Debug\netcoreapp3.1\Bils.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Bils\bin\Debug\netcoreapp3.1\Bils.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Bils\bin\Debug\netcoreapp3.1\Bils.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Bils\bin\Debug\netcoreapp3.1\Bils.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Bils\obj\Debug\netcoreapp3.1\Bils.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Bils\obj\Debug\netcoreapp3.1\Bils.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Bils\obj\Debug\netcoreapp3.1\Bils.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Bils\obj\Debug\netcoreapp3.1\Bils.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Bils\obj\Debug\netcoreapp3.1\Bils.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Bils\obj\Debug\netcoreapp3.1\Bils.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Bils\obj\Debug\netcoreapp3.1\Bils.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Bils\obj\Debug\netcoreapp3.1\Bils.genruntimeconfig.cache

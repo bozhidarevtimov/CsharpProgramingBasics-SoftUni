@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\EqualSumEvenOddPossitions\bin\Debug\netcoreapp3.1\EqualSumEvenOddPossitions.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\EqualSumEvenOddPossitions\bin\Debug\netcoreapp3.1\EqualSumEvenOddPossitions.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\EqualSumEvenOddPossitions\bin\Debug\netcoreapp3.1\EqualSumEvenOddPossitions.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\EqualSumEvenOddPossitions\bin\Debug\netcoreapp3.1\EqualSumEvenOddPossitions.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\EqualSumEvenOddPossitions\bin\Debug\netcoreapp3.1\EqualSumEvenOddPossitions.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\EqualSumEvenOddPossitions\bin\Debug\netcoreapp3.1\EqualSumEvenOddPossitions.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\EqualSumEvenOddPossitions\obj\Debug\netcoreapp3.1\EqualSumEvenOddPossitions.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\EqualSumEvenOddPossitions\obj\Debug\netcoreapp3.1\EqualSumEvenOddPossitions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\EqualSumEvenOddPossitions\obj\Debug\netcoreapp3.1\EqualSumEvenOddPossitions.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\EqualSumEvenOddPossitions\obj\Debug\netcoreapp3.1\EqualSumEvenOddPossitions.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\EqualSumEvenOddPossitions\obj\Debug\netcoreapp3.1\EqualSumEvenOddPossitions.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\EqualSumEvenOddPossitions\obj\Debug\netcoreapp3.1\EqualSumEvenOddPossitions.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\EqualSumEvenOddPossitions\obj\Debug\netcoreapp3.1\EqualSumEvenOddPossitions.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\EqualSumEvenOddPossitions\obj\Debug\netcoreapp3.1\EqualSumEvenOddPossitions.genruntimeconfig.cache

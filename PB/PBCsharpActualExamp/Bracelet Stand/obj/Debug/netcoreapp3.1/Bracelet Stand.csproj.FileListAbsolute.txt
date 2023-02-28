@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Bracelet Stand\bin\Debug\netcoreapp3.1\Bracelet Stand.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Bracelet Stand\bin\Debug\netcoreapp3.1\Bracelet Stand.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Bracelet Stand\bin\Debug\netcoreapp3.1\Bracelet Stand.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Bracelet Stand\bin\Debug\netcoreapp3.1\Bracelet Stand.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Bracelet Stand\bin\Debug\netcoreapp3.1\Bracelet Stand.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Bracelet Stand\bin\Debug\netcoreapp3.1\Bracelet Stand.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Bracelet Stand\obj\Debug\netcoreapp3.1\Bracelet Stand.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Bracelet Stand\obj\Debug\netcoreapp3.1\Bracelet Stand.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Bracelet Stand\obj\Debug\netcoreapp3.1\Bracelet Stand.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Bracelet Stand\obj\Debug\netcoreapp3.1\Bracelet Stand.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Bracelet Stand\obj\Debug\netcoreapp3.1\Bracelet Stand.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Bracelet Stand\obj\Debug\netcoreapp3.1\Bracelet Stand.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Bracelet Stand\obj\Debug\netcoreapp3.1\Bracelet Stand.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Bracelet Stand\obj\Debug\netcoreapp3.1\Bracelet Stand.genruntimeconfig.cache

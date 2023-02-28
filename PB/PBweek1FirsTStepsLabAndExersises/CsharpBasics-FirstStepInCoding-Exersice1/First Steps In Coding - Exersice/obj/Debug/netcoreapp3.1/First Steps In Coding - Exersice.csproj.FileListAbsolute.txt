@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\demo\First Steps In Coding - Exersice\bin\Debug\netcoreapp3.1\First Steps In Coding - Exersice.exe
+C:\Users\user\source\repos\demo\First Steps In Coding - Exersice\bin\Debug\netcoreapp3.1\First Steps In Coding - Exersice.deps.json
+C:\Users\user\source\repos\demo\First Steps In Coding - Exersice\bin\Debug\netcoreapp3.1\First Steps In Coding - Exersice.runtimeconfig.json
+C:\Users\user\source\repos\demo\First Steps In Coding - Exersice\bin\Debug\netcoreapp3.1\First Steps In Coding - Exersice.runtimeconfig.dev.json
+C:\Users\user\source\repos\demo\First Steps In Coding - Exersice\bin\Debug\netcoreapp3.1\First Steps In Coding - Exersice.dll
+C:\Users\user\source\repos\demo\First Steps In Coding - Exersice\bin\Debug\netcoreapp3.1\First Steps In Coding - Exersice.pdb
+C:\Users\user\source\repos\demo\First Steps In Coding - Exersice\obj\Debug\netcoreapp3.1\First Steps In Coding - Exersice.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\demo\First Steps In Coding - Exersice\obj\Debug\netcoreapp3.1\First Steps In Coding - Exersice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\demo\First Steps In Coding - Exersice\obj\Debug\netcoreapp3.1\First Steps In Coding - Exersice.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\demo\First Steps In Coding - Exersice\obj\Debug\netcoreapp3.1\First Steps In Coding - Exersice.AssemblyInfo.cs
+C:\Users\user\source\repos\demo\First Steps In Coding - Exersice\obj\Debug\netcoreapp3.1\First Steps In Coding - Exersice.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\demo\First Steps In Coding - Exersice\obj\Debug\netcoreapp3.1\First Steps In Coding - Exersice.dll
+C:\Users\user\source\repos\demo\First Steps In Coding - Exersice\obj\Debug\netcoreapp3.1\First Steps In Coding - Exersice.pdb
+C:\Users\user\source\repos\demo\First Steps In Coding - Exersice\obj\Debug\netcoreapp3.1\First Steps In Coding - Exersice.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\TrapeziodArea\Celsius to Farenhai\bin\Debug\netcoreapp3.1\Celsius to Farenhai.exe
+E:\Users\user\Source\Repos\TrapeziodArea\Celsius to Farenhai\bin\Debug\netcoreapp3.1\Celsius to Farenhai.deps.json
+E:\Users\user\Source\Repos\TrapeziodArea\Celsius to Farenhai\bin\Debug\netcoreapp3.1\Celsius to Farenhai.runtimeconfig.json
+E:\Users\user\Source\Repos\TrapeziodArea\Celsius to Farenhai\bin\Debug\netcoreapp3.1\Celsius to Farenhai.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\TrapeziodArea\Celsius to Farenhai\bin\Debug\netcoreapp3.1\Celsius to Farenhai.dll
+E:\Users\user\Source\Repos\TrapeziodArea\Celsius to Farenhai\bin\Debug\netcoreapp3.1\Celsius to Farenhai.pdb
+E:\Users\user\Source\Repos\TrapeziodArea\Celsius to Farenhai\obj\Debug\netcoreapp3.1\Celsius to Farenhai.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\TrapeziodArea\Celsius to Farenhai\obj\Debug\netcoreapp3.1\Celsius to Farenhai.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\TrapeziodArea\Celsius to Farenhai\obj\Debug\netcoreapp3.1\Celsius to Farenhai.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\TrapeziodArea\Celsius to Farenhai\obj\Debug\netcoreapp3.1\Celsius to Farenhai.AssemblyInfo.cs
+E:\Users\user\Source\Repos\TrapeziodArea\Celsius to Farenhai\obj\Debug\netcoreapp3.1\Celsius to Farenhai.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\TrapeziodArea\Celsius to Farenhai\obj\Debug\netcoreapp3.1\Celsius to Farenhai.dll
+E:\Users\user\Source\Repos\TrapeziodArea\Celsius to Farenhai\obj\Debug\netcoreapp3.1\Celsius to Farenhai.pdb
+E:\Users\user\Source\Repos\TrapeziodArea\Celsius to Farenhai\obj\Debug\netcoreapp3.1\Celsius to Farenhai.genruntimeconfig.cache

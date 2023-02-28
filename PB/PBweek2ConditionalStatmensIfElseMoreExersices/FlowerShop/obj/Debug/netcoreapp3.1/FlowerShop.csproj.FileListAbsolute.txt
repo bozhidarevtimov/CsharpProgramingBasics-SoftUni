@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\PBweek2MoreExersices\FlowerShop\bin\Debug\netcoreapp3.1\FlowerShop.exe
+C:\Users\user\source\repos\PBweek2MoreExersices\FlowerShop\bin\Debug\netcoreapp3.1\FlowerShop.deps.json
+C:\Users\user\source\repos\PBweek2MoreExersices\FlowerShop\bin\Debug\netcoreapp3.1\FlowerShop.runtimeconfig.json
+C:\Users\user\source\repos\PBweek2MoreExersices\FlowerShop\bin\Debug\netcoreapp3.1\FlowerShop.runtimeconfig.dev.json
+C:\Users\user\source\repos\PBweek2MoreExersices\FlowerShop\bin\Debug\netcoreapp3.1\FlowerShop.dll
+C:\Users\user\source\repos\PBweek2MoreExersices\FlowerShop\bin\Debug\netcoreapp3.1\FlowerShop.pdb
+C:\Users\user\source\repos\PBweek2MoreExersices\FlowerShop\obj\Debug\netcoreapp3.1\FlowerShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\PBweek2MoreExersices\FlowerShop\obj\Debug\netcoreapp3.1\FlowerShop.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PBweek2MoreExersices\FlowerShop\obj\Debug\netcoreapp3.1\FlowerShop.AssemblyInfo.cs
+C:\Users\user\source\repos\PBweek2MoreExersices\FlowerShop\obj\Debug\netcoreapp3.1\FlowerShop.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PBweek2MoreExersices\FlowerShop\obj\Debug\netcoreapp3.1\FlowerShop.dll
+C:\Users\user\source\repos\PBweek2MoreExersices\FlowerShop\obj\Debug\netcoreapp3.1\FlowerShop.pdb
+C:\Users\user\source\repos\PBweek2MoreExersices\FlowerShop\obj\Debug\netcoreapp3.1\FlowerShop.genruntimeconfig.cache

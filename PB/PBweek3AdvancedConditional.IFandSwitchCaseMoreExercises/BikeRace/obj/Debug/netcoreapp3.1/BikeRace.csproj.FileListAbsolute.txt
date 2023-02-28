@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\BikeRace\bin\Debug\netcoreapp3.1\BikeRace.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\BikeRace\bin\Debug\netcoreapp3.1\BikeRace.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\BikeRace\bin\Debug\netcoreapp3.1\BikeRace.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\BikeRace\bin\Debug\netcoreapp3.1\BikeRace.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\BikeRace\bin\Debug\netcoreapp3.1\BikeRace.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\BikeRace\bin\Debug\netcoreapp3.1\BikeRace.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\BikeRace\obj\Debug\netcoreapp3.1\BikeRace.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\BikeRace\obj\Debug\netcoreapp3.1\BikeRace.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\BikeRace\obj\Debug\netcoreapp3.1\BikeRace.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\BikeRace\obj\Debug\netcoreapp3.1\BikeRace.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\BikeRace\obj\Debug\netcoreapp3.1\BikeRace.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\BikeRace\obj\Debug\netcoreapp3.1\BikeRace.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\BikeRace\obj\Debug\netcoreapp3.1\BikeRace.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\BikeRace\obj\Debug\netcoreapp3.1\BikeRace.genruntimeconfig.cache

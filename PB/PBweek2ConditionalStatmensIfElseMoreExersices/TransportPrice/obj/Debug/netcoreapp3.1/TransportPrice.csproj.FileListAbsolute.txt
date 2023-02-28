@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\PBweek2MoreExersices\TransportPrice\bin\Debug\netcoreapp3.1\TransportPrice.exe
+C:\Users\user\source\repos\PBweek2MoreExersices\TransportPrice\bin\Debug\netcoreapp3.1\TransportPrice.deps.json
+C:\Users\user\source\repos\PBweek2MoreExersices\TransportPrice\bin\Debug\netcoreapp3.1\TransportPrice.runtimeconfig.json
+C:\Users\user\source\repos\PBweek2MoreExersices\TransportPrice\bin\Debug\netcoreapp3.1\TransportPrice.runtimeconfig.dev.json
+C:\Users\user\source\repos\PBweek2MoreExersices\TransportPrice\bin\Debug\netcoreapp3.1\TransportPrice.dll
+C:\Users\user\source\repos\PBweek2MoreExersices\TransportPrice\bin\Debug\netcoreapp3.1\TransportPrice.pdb
+C:\Users\user\source\repos\PBweek2MoreExersices\TransportPrice\obj\Debug\netcoreapp3.1\TransportPrice.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PBweek2MoreExersices\TransportPrice\obj\Debug\netcoreapp3.1\TransportPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\PBweek2MoreExersices\TransportPrice\obj\Debug\netcoreapp3.1\TransportPrice.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PBweek2MoreExersices\TransportPrice\obj\Debug\netcoreapp3.1\TransportPrice.AssemblyInfo.cs
+C:\Users\user\source\repos\PBweek2MoreExersices\TransportPrice\obj\Debug\netcoreapp3.1\TransportPrice.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PBweek2MoreExersices\TransportPrice\obj\Debug\netcoreapp3.1\TransportPrice.dll
+C:\Users\user\source\repos\PBweek2MoreExersices\TransportPrice\obj\Debug\netcoreapp3.1\TransportPrice.pdb
+C:\Users\user\source\repos\PBweek2MoreExersices\TransportPrice\obj\Debug\netcoreapp3.1\TransportPrice.genruntimeconfig.cache

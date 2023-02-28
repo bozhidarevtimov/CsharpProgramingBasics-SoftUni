@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\TrapeziodArea\VegetableaMarket\bin\Debug\netcoreapp3.1\VegetableaMarket.exe
+E:\Users\user\Source\Repos\TrapeziodArea\VegetableaMarket\bin\Debug\netcoreapp3.1\VegetableaMarket.deps.json
+E:\Users\user\Source\Repos\TrapeziodArea\VegetableaMarket\bin\Debug\netcoreapp3.1\VegetableaMarket.runtimeconfig.json
+E:\Users\user\Source\Repos\TrapeziodArea\VegetableaMarket\bin\Debug\netcoreapp3.1\VegetableaMarket.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\TrapeziodArea\VegetableaMarket\bin\Debug\netcoreapp3.1\VegetableaMarket.dll
+E:\Users\user\Source\Repos\TrapeziodArea\VegetableaMarket\bin\Debug\netcoreapp3.1\VegetableaMarket.pdb
+E:\Users\user\Source\Repos\TrapeziodArea\VegetableaMarket\obj\Debug\netcoreapp3.1\VegetableaMarket.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\TrapeziodArea\VegetableaMarket\obj\Debug\netcoreapp3.1\VegetableaMarket.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\TrapeziodArea\VegetableaMarket\obj\Debug\netcoreapp3.1\VegetableaMarket.AssemblyInfo.cs
+E:\Users\user\Source\Repos\TrapeziodArea\VegetableaMarket\obj\Debug\netcoreapp3.1\VegetableaMarket.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\TrapeziodArea\VegetableaMarket\obj\Debug\netcoreapp3.1\VegetableaMarket.dll
+E:\Users\user\Source\Repos\TrapeziodArea\VegetableaMarket\obj\Debug\netcoreapp3.1\VegetableaMarket.pdb
+E:\Users\user\Source\Repos\TrapeziodArea\VegetableaMarket\obj\Debug\netcoreapp3.1\VegetableaMarket.genruntimeconfig.cache
+E:\Users\user\Source\Repos\TrapeziodArea\VegetableaMarket\obj\Debug\netcoreapp3.1\VegetableaMarket.csproj.AssemblyReference.cache

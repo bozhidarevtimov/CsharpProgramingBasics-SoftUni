@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Letters Combinations\bin\Debug\netcoreapp3.1\Letters Combinations.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Letters Combinations\bin\Debug\netcoreapp3.1\Letters Combinations.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Letters Combinations\bin\Debug\netcoreapp3.1\Letters Combinations.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Letters Combinations\bin\Debug\netcoreapp3.1\Letters Combinations.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Letters Combinations\bin\Debug\netcoreapp3.1\Letters Combinations.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Letters Combinations\bin\Debug\netcoreapp3.1\Letters Combinations.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Letters Combinations\obj\Debug\netcoreapp3.1\Letters Combinations.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Letters Combinations\obj\Debug\netcoreapp3.1\Letters Combinations.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Letters Combinations\obj\Debug\netcoreapp3.1\Letters Combinations.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Letters Combinations\obj\Debug\netcoreapp3.1\Letters Combinations.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Letters Combinations\obj\Debug\netcoreapp3.1\Letters Combinations.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Letters Combinations\obj\Debug\netcoreapp3.1\Letters Combinations.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Letters Combinations\obj\Debug\netcoreapp3.1\Letters Combinations.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Letters Combinations\obj\Debug\netcoreapp3.1\Letters Combinations.genruntimeconfig.cache

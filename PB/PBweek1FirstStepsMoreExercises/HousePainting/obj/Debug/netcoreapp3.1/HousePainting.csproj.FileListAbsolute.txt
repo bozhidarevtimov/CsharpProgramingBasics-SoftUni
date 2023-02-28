@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\TrapeziodArea\HousePainting\bin\Debug\netcoreapp3.1\HousePainting.exe
+E:\Users\user\Source\Repos\TrapeziodArea\HousePainting\bin\Debug\netcoreapp3.1\HousePainting.deps.json
+E:\Users\user\Source\Repos\TrapeziodArea\HousePainting\bin\Debug\netcoreapp3.1\HousePainting.runtimeconfig.json
+E:\Users\user\Source\Repos\TrapeziodArea\HousePainting\bin\Debug\netcoreapp3.1\HousePainting.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\TrapeziodArea\HousePainting\bin\Debug\netcoreapp3.1\HousePainting.dll
+E:\Users\user\Source\Repos\TrapeziodArea\HousePainting\bin\Debug\netcoreapp3.1\HousePainting.pdb
+E:\Users\user\Source\Repos\TrapeziodArea\HousePainting\obj\Debug\netcoreapp3.1\HousePainting.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\TrapeziodArea\HousePainting\obj\Debug\netcoreapp3.1\HousePainting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\TrapeziodArea\HousePainting\obj\Debug\netcoreapp3.1\HousePainting.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\TrapeziodArea\HousePainting\obj\Debug\netcoreapp3.1\HousePainting.AssemblyInfo.cs
+E:\Users\user\Source\Repos\TrapeziodArea\HousePainting\obj\Debug\netcoreapp3.1\HousePainting.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\TrapeziodArea\HousePainting\obj\Debug\netcoreapp3.1\HousePainting.dll
+E:\Users\user\Source\Repos\TrapeziodArea\HousePainting\obj\Debug\netcoreapp3.1\HousePainting.pdb
+E:\Users\user\Source\Repos\TrapeziodArea\HousePainting\obj\Debug\netcoreapp3.1\HousePainting.genruntimeconfig.cache

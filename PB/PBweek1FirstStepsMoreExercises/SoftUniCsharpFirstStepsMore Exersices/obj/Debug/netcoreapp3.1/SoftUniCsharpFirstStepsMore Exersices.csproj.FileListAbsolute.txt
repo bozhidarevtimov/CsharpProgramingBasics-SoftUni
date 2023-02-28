@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\TrapeziodArea\SoftUniCsharpFirstStepsMore Exersices\bin\Debug\netcoreapp3.1\SoftUniCsharpFirstStepsMore Exersices.exe
+E:\Users\user\Source\Repos\TrapeziodArea\SoftUniCsharpFirstStepsMore Exersices\bin\Debug\netcoreapp3.1\SoftUniCsharpFirstStepsMore Exersices.deps.json
+E:\Users\user\Source\Repos\TrapeziodArea\SoftUniCsharpFirstStepsMore Exersices\bin\Debug\netcoreapp3.1\SoftUniCsharpFirstStepsMore Exersices.runtimeconfig.json
+E:\Users\user\Source\Repos\TrapeziodArea\SoftUniCsharpFirstStepsMore Exersices\bin\Debug\netcoreapp3.1\SoftUniCsharpFirstStepsMore Exersices.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\TrapeziodArea\SoftUniCsharpFirstStepsMore Exersices\bin\Debug\netcoreapp3.1\SoftUniCsharpFirstStepsMore Exersices.dll
+E:\Users\user\Source\Repos\TrapeziodArea\SoftUniCsharpFirstStepsMore Exersices\bin\Debug\netcoreapp3.1\SoftUniCsharpFirstStepsMore Exersices.pdb
+E:\Users\user\Source\Repos\TrapeziodArea\SoftUniCsharpFirstStepsMore Exersices\obj\Debug\netcoreapp3.1\SoftUniCsharpFirstStepsMore Exersices.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\TrapeziodArea\SoftUniCsharpFirstStepsMore Exersices\obj\Debug\netcoreapp3.1\SoftUniCsharpFirstStepsMore Exersices.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\TrapeziodArea\SoftUniCsharpFirstStepsMore Exersices\obj\Debug\netcoreapp3.1\SoftUniCsharpFirstStepsMore Exersices.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\TrapeziodArea\SoftUniCsharpFirstStepsMore Exersices\obj\Debug\netcoreapp3.1\SoftUniCsharpFirstStepsMore Exersices.AssemblyInfo.cs
+E:\Users\user\Source\Repos\TrapeziodArea\SoftUniCsharpFirstStepsMore Exersices\obj\Debug\netcoreapp3.1\SoftUniCsharpFirstStepsMore Exersices.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\TrapeziodArea\SoftUniCsharpFirstStepsMore Exersices\obj\Debug\netcoreapp3.1\SoftUniCsharpFirstStepsMore Exersices.dll
+E:\Users\user\Source\Repos\TrapeziodArea\SoftUniCsharpFirstStepsMore Exersices\obj\Debug\netcoreapp3.1\SoftUniCsharpFirstStepsMore Exersices.pdb
+E:\Users\user\Source\Repos\TrapeziodArea\SoftUniCsharpFirstStepsMore Exersices\obj\Debug\netcoreapp3.1\SoftUniCsharpFirstStepsMore Exersices.genruntimeconfig.cache

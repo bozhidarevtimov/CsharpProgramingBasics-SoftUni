@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\SchoolCamp\bin\Debug\netcoreapp3.1\SchoolCamp.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\SchoolCamp\bin\Debug\netcoreapp3.1\SchoolCamp.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\SchoolCamp\bin\Debug\netcoreapp3.1\SchoolCamp.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\SchoolCamp\bin\Debug\netcoreapp3.1\SchoolCamp.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\SchoolCamp\bin\Debug\netcoreapp3.1\SchoolCamp.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\SchoolCamp\bin\Debug\netcoreapp3.1\SchoolCamp.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\SchoolCamp\obj\Debug\netcoreapp3.1\SchoolCamp.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\SchoolCamp\obj\Debug\netcoreapp3.1\SchoolCamp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\SchoolCamp\obj\Debug\netcoreapp3.1\SchoolCamp.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\SchoolCamp\obj\Debug\netcoreapp3.1\SchoolCamp.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\SchoolCamp\obj\Debug\netcoreapp3.1\SchoolCamp.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\SchoolCamp\obj\Debug\netcoreapp3.1\SchoolCamp.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\SchoolCamp\obj\Debug\netcoreapp3.1\SchoolCamp.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek3AdvancedConditional.IFandSwitchCaseMoreExercises\SchoolCamp\obj\Debug\netcoreapp3.1\SchoolCamp.genruntimeconfig.cache

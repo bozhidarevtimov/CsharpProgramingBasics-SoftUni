@@ -1,0 +1,13 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Clock\bin\Debug\netcoreapp3.1\Clock.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Clock\bin\Debug\netcoreapp3.1\Clock.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Clock\bin\Debug\netcoreapp3.1\Clock.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Clock\bin\Debug\netcoreapp3.1\Clock.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Clock\bin\Debug\netcoreapp3.1\Clock.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Clock\bin\Debug\netcoreapp3.1\Clock.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Clock\obj\Debug\netcoreapp3.1\Clock.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Clock\obj\Debug\netcoreapp3.1\Clock.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Clock\obj\Debug\netcoreapp3.1\Clock.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Clock\obj\Debug\netcoreapp3.1\Clock.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Clock\obj\Debug\netcoreapp3.1\Clock.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Clock\obj\Debug\netcoreapp3.1\Clock.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Clock\obj\Debug\netcoreapp3.1\Clock.genruntimeconfig.cache

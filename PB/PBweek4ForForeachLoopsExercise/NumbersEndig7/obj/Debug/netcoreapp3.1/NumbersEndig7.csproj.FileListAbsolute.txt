@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\NumbersEndig7\bin\Debug\netcoreapp3.1\NumbersEndig7.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\NumbersEndig7\bin\Debug\netcoreapp3.1\NumbersEndig7.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\NumbersEndig7\bin\Debug\netcoreapp3.1\NumbersEndig7.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\NumbersEndig7\bin\Debug\netcoreapp3.1\NumbersEndig7.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\NumbersEndig7\bin\Debug\netcoreapp3.1\NumbersEndig7.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\NumbersEndig7\bin\Debug\netcoreapp3.1\NumbersEndig7.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\NumbersEndig7\obj\Debug\netcoreapp3.1\NumbersEndig7.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\NumbersEndig7\obj\Debug\netcoreapp3.1\NumbersEndig7.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\NumbersEndig7\obj\Debug\netcoreapp3.1\NumbersEndig7.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\NumbersEndig7\obj\Debug\netcoreapp3.1\NumbersEndig7.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\NumbersEndig7\obj\Debug\netcoreapp3.1\NumbersEndig7.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\NumbersEndig7\obj\Debug\netcoreapp3.1\NumbersEndig7.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\NumbersEndig7\obj\Debug\netcoreapp3.1\NumbersEndig7.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\NumbersEndig7\obj\Debug\netcoreapp3.1\NumbersEndig7.genruntimeconfig.cache

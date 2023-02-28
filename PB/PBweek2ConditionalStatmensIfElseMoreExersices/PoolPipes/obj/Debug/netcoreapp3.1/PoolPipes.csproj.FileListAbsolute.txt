@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\PBweek2MoreExersices\PoolPipes\bin\Debug\netcoreapp3.1\PoolPipes.exe
+C:\Users\user\source\repos\PBweek2MoreExersices\PoolPipes\bin\Debug\netcoreapp3.1\PoolPipes.deps.json
+C:\Users\user\source\repos\PBweek2MoreExersices\PoolPipes\bin\Debug\netcoreapp3.1\PoolPipes.runtimeconfig.json
+C:\Users\user\source\repos\PBweek2MoreExersices\PoolPipes\bin\Debug\netcoreapp3.1\PoolPipes.runtimeconfig.dev.json
+C:\Users\user\source\repos\PBweek2MoreExersices\PoolPipes\bin\Debug\netcoreapp3.1\PoolPipes.dll
+C:\Users\user\source\repos\PBweek2MoreExersices\PoolPipes\bin\Debug\netcoreapp3.1\PoolPipes.pdb
+C:\Users\user\source\repos\PBweek2MoreExersices\PoolPipes\obj\Debug\netcoreapp3.1\PoolPipes.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PBweek2MoreExersices\PoolPipes\obj\Debug\netcoreapp3.1\PoolPipes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\PBweek2MoreExersices\PoolPipes\obj\Debug\netcoreapp3.1\PoolPipes.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PBweek2MoreExersices\PoolPipes\obj\Debug\netcoreapp3.1\PoolPipes.AssemblyInfo.cs
+C:\Users\user\source\repos\PBweek2MoreExersices\PoolPipes\obj\Debug\netcoreapp3.1\PoolPipes.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PBweek2MoreExersices\PoolPipes\obj\Debug\netcoreapp3.1\PoolPipes.dll
+C:\Users\user\source\repos\PBweek2MoreExersices\PoolPipes\obj\Debug\netcoreapp3.1\PoolPipes.pdb
+C:\Users\user\source\repos\PBweek2MoreExersices\PoolPipes\obj\Debug\netcoreapp3.1\PoolPipes.genruntimeconfig.cache

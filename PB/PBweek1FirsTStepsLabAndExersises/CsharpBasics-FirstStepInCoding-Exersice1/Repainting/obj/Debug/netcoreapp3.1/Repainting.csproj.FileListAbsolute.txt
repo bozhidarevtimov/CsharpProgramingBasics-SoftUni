@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\demo\Repainting\bin\Debug\netcoreapp3.1\Repainting.exe
+C:\Users\user\source\repos\demo\Repainting\bin\Debug\netcoreapp3.1\Repainting.deps.json
+C:\Users\user\source\repos\demo\Repainting\bin\Debug\netcoreapp3.1\Repainting.runtimeconfig.json
+C:\Users\user\source\repos\demo\Repainting\bin\Debug\netcoreapp3.1\Repainting.runtimeconfig.dev.json
+C:\Users\user\source\repos\demo\Repainting\bin\Debug\netcoreapp3.1\Repainting.dll
+C:\Users\user\source\repos\demo\Repainting\bin\Debug\netcoreapp3.1\Repainting.pdb
+C:\Users\user\source\repos\demo\Repainting\obj\Debug\netcoreapp3.1\Repainting.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\demo\Repainting\obj\Debug\netcoreapp3.1\Repainting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\demo\Repainting\obj\Debug\netcoreapp3.1\Repainting.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\demo\Repainting\obj\Debug\netcoreapp3.1\Repainting.AssemblyInfo.cs
+C:\Users\user\source\repos\demo\Repainting\obj\Debug\netcoreapp3.1\Repainting.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\demo\Repainting\obj\Debug\netcoreapp3.1\Repainting.dll
+C:\Users\user\source\repos\demo\Repainting\obj\Debug\netcoreapp3.1\Repainting.pdb
+C:\Users\user\source\repos\demo\Repainting\obj\Debug\netcoreapp3.1\Repainting.genruntimeconfig.cache

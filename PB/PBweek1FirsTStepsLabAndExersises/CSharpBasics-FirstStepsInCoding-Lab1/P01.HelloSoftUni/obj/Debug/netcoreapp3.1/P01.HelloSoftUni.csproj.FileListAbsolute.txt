@@ -1,0 +1,14 @@
+e:\Users\user\source\repos\CSharpBasics-FirstStepsInCoding-Lab\P01.HelloSoftUni\bin\Debug\netcoreapp3.1\P01.HelloSoftUni.exe
+e:\Users\user\source\repos\CSharpBasics-FirstStepsInCoding-Lab\P01.HelloSoftUni\bin\Debug\netcoreapp3.1\P01.HelloSoftUni.deps.json
+e:\Users\user\source\repos\CSharpBasics-FirstStepsInCoding-Lab\P01.HelloSoftUni\bin\Debug\netcoreapp3.1\P01.HelloSoftUni.runtimeconfig.json
+e:\Users\user\source\repos\CSharpBasics-FirstStepsInCoding-Lab\P01.HelloSoftUni\bin\Debug\netcoreapp3.1\P01.HelloSoftUni.runtimeconfig.dev.json
+e:\Users\user\source\repos\CSharpBasics-FirstStepsInCoding-Lab\P01.HelloSoftUni\bin\Debug\netcoreapp3.1\P01.HelloSoftUni.dll
+e:\Users\user\source\repos\CSharpBasics-FirstStepsInCoding-Lab\P01.HelloSoftUni\bin\Debug\netcoreapp3.1\P01.HelloSoftUni.pdb
+e:\Users\user\source\repos\CSharpBasics-FirstStepsInCoding-Lab\P01.HelloSoftUni\obj\Debug\netcoreapp3.1\P01.HelloSoftUni.csproj.AssemblyReference.cache
+e:\Users\user\source\repos\CSharpBasics-FirstStepsInCoding-Lab\P01.HelloSoftUni\obj\Debug\netcoreapp3.1\P01.HelloSoftUni.GeneratedMSBuildEditorConfig.editorconfig
+e:\Users\user\source\repos\CSharpBasics-FirstStepsInCoding-Lab\P01.HelloSoftUni\obj\Debug\netcoreapp3.1\P01.HelloSoftUni.AssemblyInfoInputs.cache
+e:\Users\user\source\repos\CSharpBasics-FirstStepsInCoding-Lab\P01.HelloSoftUni\obj\Debug\netcoreapp3.1\P01.HelloSoftUni.AssemblyInfo.cs
+e:\Users\user\source\repos\CSharpBasics-FirstStepsInCoding-Lab\P01.HelloSoftUni\obj\Debug\netcoreapp3.1\P01.HelloSoftUni.csproj.CoreCompileInputs.cache
+e:\Users\user\source\repos\CSharpBasics-FirstStepsInCoding-Lab\P01.HelloSoftUni\obj\Debug\netcoreapp3.1\P01.HelloSoftUni.dll
+e:\Users\user\source\repos\CSharpBasics-FirstStepsInCoding-Lab\P01.HelloSoftUni\obj\Debug\netcoreapp3.1\P01.HelloSoftUni.pdb
+e:\Users\user\source\repos\CSharpBasics-FirstStepsInCoding-Lab\P01.HelloSoftUni\obj\Debug\netcoreapp3.1\P01.HelloSoftUni.genruntimeconfig.cache

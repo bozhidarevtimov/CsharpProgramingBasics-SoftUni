@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\Histogram\bin\Debug\netcoreapp3.1\Histogram.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\Histogram\bin\Debug\netcoreapp3.1\Histogram.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\Histogram\bin\Debug\netcoreapp3.1\Histogram.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\Histogram\bin\Debug\netcoreapp3.1\Histogram.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\Histogram\bin\Debug\netcoreapp3.1\Histogram.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\Histogram\bin\Debug\netcoreapp3.1\Histogram.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\Histogram\obj\Debug\netcoreapp3.1\Histogram.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\Histogram\obj\Debug\netcoreapp3.1\Histogram.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\Histogram\obj\Debug\netcoreapp3.1\Histogram.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\Histogram\obj\Debug\netcoreapp3.1\Histogram.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\Histogram\obj\Debug\netcoreapp3.1\Histogram.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\Histogram\obj\Debug\netcoreapp3.1\Histogram.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\Histogram\obj\Debug\netcoreapp3.1\Histogram.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsExercise\Histogram\obj\Debug\netcoreapp3.1\Histogram.genruntimeconfig.cache

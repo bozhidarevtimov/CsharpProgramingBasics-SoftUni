@@ -1,0 +1,13 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\CarNumber\bin\Debug\netcoreapp3.1\CarNumber.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\CarNumber\bin\Debug\netcoreapp3.1\CarNumber.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\CarNumber\bin\Debug\netcoreapp3.1\CarNumber.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\CarNumber\bin\Debug\netcoreapp3.1\CarNumber.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\CarNumber\bin\Debug\netcoreapp3.1\CarNumber.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\CarNumber\bin\Debug\netcoreapp3.1\CarNumber.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\CarNumber\obj\Debug\netcoreapp3.1\CarNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\CarNumber\obj\Debug\netcoreapp3.1\CarNumber.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\CarNumber\obj\Debug\netcoreapp3.1\CarNumber.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\CarNumber\obj\Debug\netcoreapp3.1\CarNumber.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\CarNumber\obj\Debug\netcoreapp3.1\CarNumber.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\CarNumber\obj\Debug\netcoreapp3.1\CarNumber.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\CarNumber\obj\Debug\netcoreapp3.1\CarNumber.genruntimeconfig.cache

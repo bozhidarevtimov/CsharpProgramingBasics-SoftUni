@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\SpecialNumbers\bin\Debug\netcoreapp3.1\SpecialNumbers.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\SpecialNumbers\bin\Debug\netcoreapp3.1\SpecialNumbers.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\SpecialNumbers\bin\Debug\netcoreapp3.1\SpecialNumbers.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\SpecialNumbers\bin\Debug\netcoreapp3.1\SpecialNumbers.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\SpecialNumbers\bin\Debug\netcoreapp3.1\SpecialNumbers.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\SpecialNumbers\bin\Debug\netcoreapp3.1\SpecialNumbers.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\SpecialNumbers\obj\Debug\netcoreapp3.1\SpecialNumbers.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\SpecialNumbers\obj\Debug\netcoreapp3.1\SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\SpecialNumbers\obj\Debug\netcoreapp3.1\SpecialNumbers.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\SpecialNumbers\obj\Debug\netcoreapp3.1\SpecialNumbers.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\SpecialNumbers\obj\Debug\netcoreapp3.1\SpecialNumbers.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\SpecialNumbers\obj\Debug\netcoreapp3.1\SpecialNumbers.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\SpecialNumbers\obj\Debug\netcoreapp3.1\SpecialNumbers.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\SpecialNumbers\obj\Debug\netcoreapp3.1\SpecialNumbers.genruntimeconfig.cache

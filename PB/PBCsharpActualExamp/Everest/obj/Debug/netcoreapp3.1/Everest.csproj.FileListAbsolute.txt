@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Everest\bin\Debug\netcoreapp3.1\Everest.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Everest\bin\Debug\netcoreapp3.1\Everest.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Everest\bin\Debug\netcoreapp3.1\Everest.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Everest\bin\Debug\netcoreapp3.1\Everest.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Everest\bin\Debug\netcoreapp3.1\Everest.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Everest\bin\Debug\netcoreapp3.1\Everest.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Everest\obj\Debug\netcoreapp3.1\Everest.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Everest\obj\Debug\netcoreapp3.1\Everest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Everest\obj\Debug\netcoreapp3.1\Everest.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Everest\obj\Debug\netcoreapp3.1\Everest.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Everest\obj\Debug\netcoreapp3.1\Everest.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Everest\obj\Debug\netcoreapp3.1\Everest.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Everest\obj\Debug\netcoreapp3.1\Everest.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Everest\obj\Debug\netcoreapp3.1\Everest.genruntimeconfig.cache

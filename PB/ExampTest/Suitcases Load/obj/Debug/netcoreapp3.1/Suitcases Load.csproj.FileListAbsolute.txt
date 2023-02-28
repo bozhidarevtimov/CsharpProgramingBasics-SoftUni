@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Suitcases Load\bin\Debug\netcoreapp3.1\Suitcases Load.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Suitcases Load\bin\Debug\netcoreapp3.1\Suitcases Load.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Suitcases Load\bin\Debug\netcoreapp3.1\Suitcases Load.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Suitcases Load\bin\Debug\netcoreapp3.1\Suitcases Load.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Suitcases Load\bin\Debug\netcoreapp3.1\Suitcases Load.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Suitcases Load\bin\Debug\netcoreapp3.1\Suitcases Load.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Suitcases Load\obj\Debug\netcoreapp3.1\Suitcases Load.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Suitcases Load\obj\Debug\netcoreapp3.1\Suitcases Load.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Suitcases Load\obj\Debug\netcoreapp3.1\Suitcases Load.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Suitcases Load\obj\Debug\netcoreapp3.1\Suitcases Load.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Suitcases Load\obj\Debug\netcoreapp3.1\Suitcases Load.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Suitcases Load\obj\Debug\netcoreapp3.1\Suitcases Load.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Suitcases Load\obj\Debug\netcoreapp3.1\Suitcases Load.genruntimeconfig.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Suitcases Load\obj\Debug\netcoreapp3.1\Suitcases Load.csproj.AssemblyReference.cache

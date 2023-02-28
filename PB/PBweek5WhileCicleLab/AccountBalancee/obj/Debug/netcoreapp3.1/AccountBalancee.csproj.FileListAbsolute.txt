@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\AccountBalancee\bin\Debug\netcoreapp3.1\AccountBalancee.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\AccountBalancee\bin\Debug\netcoreapp3.1\AccountBalancee.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\AccountBalancee\bin\Debug\netcoreapp3.1\AccountBalancee.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\AccountBalancee\bin\Debug\netcoreapp3.1\AccountBalancee.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\AccountBalancee\bin\Debug\netcoreapp3.1\AccountBalancee.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\AccountBalancee\bin\Debug\netcoreapp3.1\AccountBalancee.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\AccountBalancee\obj\Debug\netcoreapp3.1\AccountBalancee.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\AccountBalancee\obj\Debug\netcoreapp3.1\AccountBalancee.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\AccountBalancee\obj\Debug\netcoreapp3.1\AccountBalancee.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\AccountBalancee\obj\Debug\netcoreapp3.1\AccountBalancee.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\AccountBalancee\obj\Debug\netcoreapp3.1\AccountBalancee.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\AccountBalancee\obj\Debug\netcoreapp3.1\AccountBalancee.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\AccountBalancee\obj\Debug\netcoreapp3.1\AccountBalancee.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\AccountBalancee\obj\Debug\netcoreapp3.1\AccountBalancee.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+e:\Users\user\source\repos\PBweek3SoftUniLab\TradeComisions\bin\Debug\netcoreapp3.1\TradeComisions.exe
+e:\Users\user\source\repos\PBweek3SoftUniLab\TradeComisions\bin\Debug\netcoreapp3.1\TradeComisions.deps.json
+e:\Users\user\source\repos\PBweek3SoftUniLab\TradeComisions\bin\Debug\netcoreapp3.1\TradeComisions.runtimeconfig.json
+e:\Users\user\source\repos\PBweek3SoftUniLab\TradeComisions\bin\Debug\netcoreapp3.1\TradeComisions.runtimeconfig.dev.json
+e:\Users\user\source\repos\PBweek3SoftUniLab\TradeComisions\bin\Debug\netcoreapp3.1\TradeComisions.dll
+e:\Users\user\source\repos\PBweek3SoftUniLab\TradeComisions\bin\Debug\netcoreapp3.1\TradeComisions.pdb
+e:\Users\user\source\repos\PBweek3SoftUniLab\TradeComisions\obj\Debug\netcoreapp3.1\TradeComisions.csproj.AssemblyReference.cache
+e:\Users\user\source\repos\PBweek3SoftUniLab\TradeComisions\obj\Debug\netcoreapp3.1\TradeComisions.GeneratedMSBuildEditorConfig.editorconfig
+e:\Users\user\source\repos\PBweek3SoftUniLab\TradeComisions\obj\Debug\netcoreapp3.1\TradeComisions.AssemblyInfoInputs.cache
+e:\Users\user\source\repos\PBweek3SoftUniLab\TradeComisions\obj\Debug\netcoreapp3.1\TradeComisions.AssemblyInfo.cs
+e:\Users\user\source\repos\PBweek3SoftUniLab\TradeComisions\obj\Debug\netcoreapp3.1\TradeComisions.csproj.CoreCompileInputs.cache
+e:\Users\user\source\repos\PBweek3SoftUniLab\TradeComisions\obj\Debug\netcoreapp3.1\TradeComisions.dll
+e:\Users\user\source\repos\PBweek3SoftUniLab\TradeComisions\obj\Debug\netcoreapp3.1\TradeComisions.pdb
+e:\Users\user\source\repos\PBweek3SoftUniLab\TradeComisions\obj\Debug\netcoreapp3.1\TradeComisions.genruntimeconfig.cache

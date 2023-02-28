@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\ReadText\bin\Debug\netcoreapp3.1\ReadText.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\ReadText\bin\Debug\netcoreapp3.1\ReadText.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\ReadText\bin\Debug\netcoreapp3.1\ReadText.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\ReadText\bin\Debug\netcoreapp3.1\ReadText.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\ReadText\bin\Debug\netcoreapp3.1\ReadText.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\ReadText\bin\Debug\netcoreapp3.1\ReadText.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\ReadText\obj\Debug\netcoreapp3.1\ReadText.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\ReadText\obj\Debug\netcoreapp3.1\ReadText.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\ReadText\obj\Debug\netcoreapp3.1\ReadText.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\ReadText\obj\Debug\netcoreapp3.1\ReadText.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\ReadText\obj\Debug\netcoreapp3.1\ReadText.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\ReadText\obj\Debug\netcoreapp3.1\ReadText.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\ReadText\obj\Debug\netcoreapp3.1\ReadText.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\ReadText\obj\Debug\netcoreapp3.1\ReadText.genruntimeconfig.cache

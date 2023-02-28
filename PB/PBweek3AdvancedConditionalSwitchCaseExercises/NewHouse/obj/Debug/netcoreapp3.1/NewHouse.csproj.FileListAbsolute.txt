@@ -1,0 +1,14 @@
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.exe
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.deps.json
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.runtimeconfig.json
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.runtimeconfig.dev.json
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.dll
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.pdb
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.csproj.AssemblyReference.cache
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.GeneratedMSBuildEditorConfig.editorconfig
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.AssemblyInfoInputs.cache
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.AssemblyInfo.cs
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.csproj.CoreCompileInputs.cache
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.dll
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.pdb
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.genruntimeconfig.cache

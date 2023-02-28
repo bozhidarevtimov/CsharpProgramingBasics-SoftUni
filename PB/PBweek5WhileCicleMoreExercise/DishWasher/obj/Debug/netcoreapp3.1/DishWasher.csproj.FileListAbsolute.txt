@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\DishWasher\bin\Debug\netcoreapp3.1\DishWasher.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\DishWasher\bin\Debug\netcoreapp3.1\DishWasher.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\DishWasher\bin\Debug\netcoreapp3.1\DishWasher.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\DishWasher\bin\Debug\netcoreapp3.1\DishWasher.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\DishWasher\bin\Debug\netcoreapp3.1\DishWasher.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\DishWasher\bin\Debug\netcoreapp3.1\DishWasher.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\DishWasher\obj\Debug\netcoreapp3.1\DishWasher.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\DishWasher\obj\Debug\netcoreapp3.1\DishWasher.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\DishWasher\obj\Debug\netcoreapp3.1\DishWasher.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\DishWasher\obj\Debug\netcoreapp3.1\DishWasher.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\DishWasher\obj\Debug\netcoreapp3.1\DishWasher.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\DishWasher\obj\Debug\netcoreapp3.1\DishWasher.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\DishWasher\obj\Debug\netcoreapp3.1\DishWasher.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleMoreExercise\DishWasher\obj\Debug\netcoreapp3.1\DishWasher.genruntimeconfig.cache

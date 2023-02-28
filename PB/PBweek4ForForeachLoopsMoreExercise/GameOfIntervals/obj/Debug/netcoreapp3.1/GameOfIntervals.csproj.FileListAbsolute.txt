@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\GameOfIntervals\bin\Debug\netcoreapp3.1\GameOfIntervals.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\GameOfIntervals\bin\Debug\netcoreapp3.1\GameOfIntervals.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\GameOfIntervals\bin\Debug\netcoreapp3.1\GameOfIntervals.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\GameOfIntervals\bin\Debug\netcoreapp3.1\GameOfIntervals.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\GameOfIntervals\bin\Debug\netcoreapp3.1\GameOfIntervals.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\GameOfIntervals\bin\Debug\netcoreapp3.1\GameOfIntervals.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\GameOfIntervals\obj\Debug\netcoreapp3.1\GameOfIntervals.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\GameOfIntervals\obj\Debug\netcoreapp3.1\GameOfIntervals.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\GameOfIntervals\obj\Debug\netcoreapp3.1\GameOfIntervals.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\GameOfIntervals\obj\Debug\netcoreapp3.1\GameOfIntervals.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\GameOfIntervals\obj\Debug\netcoreapp3.1\GameOfIntervals.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\GameOfIntervals\obj\Debug\netcoreapp3.1\GameOfIntervals.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\GameOfIntervals\obj\Debug\netcoreapp3.1\GameOfIntervals.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\GameOfIntervals\obj\Debug\netcoreapp3.1\GameOfIntervals.genruntimeconfig.cache

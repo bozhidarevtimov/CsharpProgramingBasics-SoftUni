@@ -1,0 +1,14 @@
+e:\Users\user\source\repos\SoftUniWeek2Exercise\BonusScore\bin\Debug\netcoreapp3.1\BonusScore.exe
+e:\Users\user\source\repos\SoftUniWeek2Exercise\BonusScore\bin\Debug\netcoreapp3.1\BonusScore.deps.json
+e:\Users\user\source\repos\SoftUniWeek2Exercise\BonusScore\bin\Debug\netcoreapp3.1\BonusScore.runtimeconfig.json
+e:\Users\user\source\repos\SoftUniWeek2Exercise\BonusScore\bin\Debug\netcoreapp3.1\BonusScore.runtimeconfig.dev.json
+e:\Users\user\source\repos\SoftUniWeek2Exercise\BonusScore\bin\Debug\netcoreapp3.1\BonusScore.dll
+e:\Users\user\source\repos\SoftUniWeek2Exercise\BonusScore\bin\Debug\netcoreapp3.1\BonusScore.pdb
+e:\Users\user\source\repos\SoftUniWeek2Exercise\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.csproj.AssemblyReference.cache
+e:\Users\user\source\repos\SoftUniWeek2Exercise\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.GeneratedMSBuildEditorConfig.editorconfig
+e:\Users\user\source\repos\SoftUniWeek2Exercise\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.AssemblyInfoInputs.cache
+e:\Users\user\source\repos\SoftUniWeek2Exercise\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.AssemblyInfo.cs
+e:\Users\user\source\repos\SoftUniWeek2Exercise\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.csproj.CoreCompileInputs.cache
+e:\Users\user\source\repos\SoftUniWeek2Exercise\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.dll
+e:\Users\user\source\repos\SoftUniWeek2Exercise\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.pdb
+e:\Users\user\source\repos\SoftUniWeek2Exercise\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.genruntimeconfig.cache

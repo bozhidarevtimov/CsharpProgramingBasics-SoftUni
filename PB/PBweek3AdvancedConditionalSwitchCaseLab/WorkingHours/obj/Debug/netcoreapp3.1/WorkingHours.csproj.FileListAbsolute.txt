@@ -1,0 +1,13 @@
+e:\Users\user\source\repos\PBweek3SoftUniLab\WorkingHours\bin\Debug\netcoreapp3.1\WorkingHours.exe
+e:\Users\user\source\repos\PBweek3SoftUniLab\WorkingHours\bin\Debug\netcoreapp3.1\WorkingHours.deps.json
+e:\Users\user\source\repos\PBweek3SoftUniLab\WorkingHours\bin\Debug\netcoreapp3.1\WorkingHours.runtimeconfig.json
+e:\Users\user\source\repos\PBweek3SoftUniLab\WorkingHours\bin\Debug\netcoreapp3.1\WorkingHours.runtimeconfig.dev.json
+e:\Users\user\source\repos\PBweek3SoftUniLab\WorkingHours\bin\Debug\netcoreapp3.1\WorkingHours.dll
+e:\Users\user\source\repos\PBweek3SoftUniLab\WorkingHours\bin\Debug\netcoreapp3.1\WorkingHours.pdb
+e:\Users\user\source\repos\PBweek3SoftUniLab\WorkingHours\obj\Debug\netcoreapp3.1\WorkingHours.GeneratedMSBuildEditorConfig.editorconfig
+e:\Users\user\source\repos\PBweek3SoftUniLab\WorkingHours\obj\Debug\netcoreapp3.1\WorkingHours.AssemblyInfoInputs.cache
+e:\Users\user\source\repos\PBweek3SoftUniLab\WorkingHours\obj\Debug\netcoreapp3.1\WorkingHours.AssemblyInfo.cs
+e:\Users\user\source\repos\PBweek3SoftUniLab\WorkingHours\obj\Debug\netcoreapp3.1\WorkingHours.csproj.CoreCompileInputs.cache
+e:\Users\user\source\repos\PBweek3SoftUniLab\WorkingHours\obj\Debug\netcoreapp3.1\WorkingHours.dll
+e:\Users\user\source\repos\PBweek3SoftUniLab\WorkingHours\obj\Debug\netcoreapp3.1\WorkingHours.pdb
+e:\Users\user\source\repos\PBweek3SoftUniLab\WorkingHours\obj\Debug\netcoreapp3.1\WorkingHours.genruntimeconfig.cache

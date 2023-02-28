@@ -1,0 +1,13 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\Combinations\bin\Debug\netcoreapp3.1\Combinations.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\Combinations\bin\Debug\netcoreapp3.1\Combinations.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\Combinations\bin\Debug\netcoreapp3.1\Combinations.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\Combinations\bin\Debug\netcoreapp3.1\Combinations.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\Combinations\bin\Debug\netcoreapp3.1\Combinations.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\Combinations\bin\Debug\netcoreapp3.1\Combinations.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\Combinations\obj\Debug\netcoreapp3.1\Combinations.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\Combinations\obj\Debug\netcoreapp3.1\Combinations.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\Combinations\obj\Debug\netcoreapp3.1\Combinations.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\Combinations\obj\Debug\netcoreapp3.1\Combinations.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\Combinations\obj\Debug\netcoreapp3.1\Combinations.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\Combinations\obj\Debug\netcoreapp3.1\Combinations.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\Combinations\obj\Debug\netcoreapp3.1\Combinations.genruntimeconfig.cache

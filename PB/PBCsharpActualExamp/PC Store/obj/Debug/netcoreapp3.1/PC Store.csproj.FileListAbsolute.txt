@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\PC Store\bin\Debug\netcoreapp3.1\PC Store.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\PC Store\bin\Debug\netcoreapp3.1\PC Store.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\PC Store\bin\Debug\netcoreapp3.1\PC Store.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\PC Store\bin\Debug\netcoreapp3.1\PC Store.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\PC Store\bin\Debug\netcoreapp3.1\PC Store.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\PC Store\bin\Debug\netcoreapp3.1\PC Store.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\PC Store\obj\Debug\netcoreapp3.1\PC Store.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\PC Store\obj\Debug\netcoreapp3.1\PC Store.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\PC Store\obj\Debug\netcoreapp3.1\PC Store.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\PC Store\obj\Debug\netcoreapp3.1\PC Store.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\PC Store\obj\Debug\netcoreapp3.1\PC Store.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\PC Store\obj\Debug\netcoreapp3.1\PC Store.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\PC Store\obj\Debug\netcoreapp3.1\PC Store.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\PC Store\obj\Debug\netcoreapp3.1\PC Store.genruntimeconfig.cache

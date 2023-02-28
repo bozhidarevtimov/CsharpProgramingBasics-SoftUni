@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Cat Walking\bin\Debug\netcoreapp3.1\Cat Walking.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Cat Walking\bin\Debug\netcoreapp3.1\Cat Walking.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Cat Walking\bin\Debug\netcoreapp3.1\Cat Walking.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Cat Walking\bin\Debug\netcoreapp3.1\Cat Walking.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Cat Walking\bin\Debug\netcoreapp3.1\Cat Walking.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Cat Walking\bin\Debug\netcoreapp3.1\Cat Walking.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Cat Walking\obj\Debug\netcoreapp3.1\Cat Walking.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Cat Walking\obj\Debug\netcoreapp3.1\Cat Walking.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Cat Walking\obj\Debug\netcoreapp3.1\Cat Walking.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Cat Walking\obj\Debug\netcoreapp3.1\Cat Walking.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Cat Walking\obj\Debug\netcoreapp3.1\Cat Walking.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Cat Walking\obj\Debug\netcoreapp3.1\Cat Walking.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Cat Walking\obj\Debug\netcoreapp3.1\Cat Walking.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Cat Walking\obj\Debug\netcoreapp3.1\Cat Walking.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Food for Pets\obj\Debug\netcoreapp3.1\Food for Pets.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Food for Pets\obj\Debug\netcoreapp3.1\Food for Pets.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Food for Pets\obj\Debug\netcoreapp3.1\Food for Pets.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Food for Pets\obj\Debug\netcoreapp3.1\Food for Pets.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Food for Pets\obj\Debug\netcoreapp3.1\Food for Pets.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Food for Pets\bin\Debug\netcoreapp3.1\Food for Pets.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Food for Pets\bin\Debug\netcoreapp3.1\Food for Pets.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Food for Pets\bin\Debug\netcoreapp3.1\Food for Pets.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Food for Pets\bin\Debug\netcoreapp3.1\Food for Pets.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Food for Pets\bin\Debug\netcoreapp3.1\Food for Pets.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Food for Pets\bin\Debug\netcoreapp3.1\Food for Pets.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Food for Pets\obj\Debug\netcoreapp3.1\Food for Pets.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Food for Pets\obj\Debug\netcoreapp3.1\Food for Pets.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\ExampTest\Food for Pets\obj\Debug\netcoreapp3.1\Food for Pets.genruntimeconfig.cache

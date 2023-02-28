@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\OddEvenPositions\bin\Debug\netcoreapp3.1\OddEvenPositions.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\OddEvenPositions\bin\Debug\netcoreapp3.1\OddEvenPositions.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\OddEvenPositions\bin\Debug\netcoreapp3.1\OddEvenPositions.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\OddEvenPositions\bin\Debug\netcoreapp3.1\OddEvenPositions.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\OddEvenPositions\bin\Debug\netcoreapp3.1\OddEvenPositions.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\OddEvenPositions\bin\Debug\netcoreapp3.1\OddEvenPositions.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\OddEvenPositions\obj\Debug\netcoreapp3.1\OddEvenPositions.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\OddEvenPositions\obj\Debug\netcoreapp3.1\OddEvenPositions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\OddEvenPositions\obj\Debug\netcoreapp3.1\OddEvenPositions.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\OddEvenPositions\obj\Debug\netcoreapp3.1\OddEvenPositions.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\OddEvenPositions\obj\Debug\netcoreapp3.1\OddEvenPositions.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\OddEvenPositions\obj\Debug\netcoreapp3.1\OddEvenPositions.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\OddEvenPositions\obj\Debug\netcoreapp3.1\OddEvenPositions.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\OddEvenPositions\obj\Debug\netcoreapp3.1\OddEvenPositions.genruntimeconfig.cache

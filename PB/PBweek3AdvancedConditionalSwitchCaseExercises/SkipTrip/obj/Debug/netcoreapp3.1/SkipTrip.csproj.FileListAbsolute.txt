@@ -1,0 +1,14 @@
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\SkipTrip\bin\Debug\netcoreapp3.1\SkipTrip.exe
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\SkipTrip\bin\Debug\netcoreapp3.1\SkipTrip.deps.json
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\SkipTrip\bin\Debug\netcoreapp3.1\SkipTrip.runtimeconfig.json
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\SkipTrip\bin\Debug\netcoreapp3.1\SkipTrip.runtimeconfig.dev.json
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\SkipTrip\bin\Debug\netcoreapp3.1\SkipTrip.dll
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\SkipTrip\bin\Debug\netcoreapp3.1\SkipTrip.pdb
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\SkipTrip\obj\Debug\netcoreapp3.1\SkipTrip.csproj.AssemblyReference.cache
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\SkipTrip\obj\Debug\netcoreapp3.1\SkipTrip.GeneratedMSBuildEditorConfig.editorconfig
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\SkipTrip\obj\Debug\netcoreapp3.1\SkipTrip.AssemblyInfoInputs.cache
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\SkipTrip\obj\Debug\netcoreapp3.1\SkipTrip.AssemblyInfo.cs
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\SkipTrip\obj\Debug\netcoreapp3.1\SkipTrip.csproj.CoreCompileInputs.cache
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\SkipTrip\obj\Debug\netcoreapp3.1\SkipTrip.dll
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\SkipTrip\obj\Debug\netcoreapp3.1\SkipTrip.pdb
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\SkipTrip\obj\Debug\netcoreapp3.1\SkipTrip.genruntimeconfig.cache

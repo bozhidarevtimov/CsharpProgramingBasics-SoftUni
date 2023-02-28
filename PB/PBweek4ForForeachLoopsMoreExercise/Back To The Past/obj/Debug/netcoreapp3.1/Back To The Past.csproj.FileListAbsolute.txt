@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Back To The Past\bin\Debug\netcoreapp3.1\Back To The Past.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Back To The Past\bin\Debug\netcoreapp3.1\Back To The Past.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Back To The Past\bin\Debug\netcoreapp3.1\Back To The Past.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Back To The Past\bin\Debug\netcoreapp3.1\Back To The Past.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Back To The Past\bin\Debug\netcoreapp3.1\Back To The Past.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Back To The Past\bin\Debug\netcoreapp3.1\Back To The Past.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Back To The Past\obj\Debug\netcoreapp3.1\Back To The Past.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Back To The Past\obj\Debug\netcoreapp3.1\Back To The Past.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Back To The Past\obj\Debug\netcoreapp3.1\Back To The Past.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Back To The Past\obj\Debug\netcoreapp3.1\Back To The Past.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Back To The Past\obj\Debug\netcoreapp3.1\Back To The Past.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Back To The Past\obj\Debug\netcoreapp3.1\Back To The Past.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Back To The Past\obj\Debug\netcoreapp3.1\Back To The Past.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Back To The Past\obj\Debug\netcoreapp3.1\Back To The Past.genruntimeconfig.cache

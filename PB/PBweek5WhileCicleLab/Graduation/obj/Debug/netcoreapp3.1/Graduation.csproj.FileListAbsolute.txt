@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\Graduation\bin\Debug\netcoreapp3.1\Graduation.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\Graduation\bin\Debug\netcoreapp3.1\Graduation.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\Graduation\bin\Debug\netcoreapp3.1\Graduation.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\Graduation\bin\Debug\netcoreapp3.1\Graduation.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\Graduation\bin\Debug\netcoreapp3.1\Graduation.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\Graduation\bin\Debug\netcoreapp3.1\Graduation.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\Graduation\obj\Debug\netcoreapp3.1\Graduation.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\Graduation\obj\Debug\netcoreapp3.1\Graduation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\Graduation\obj\Debug\netcoreapp3.1\Graduation.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\Graduation\obj\Debug\netcoreapp3.1\Graduation.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\Graduation\obj\Debug\netcoreapp3.1\Graduation.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\Graduation\obj\Debug\netcoreapp3.1\Graduation.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\Graduation\obj\Debug\netcoreapp3.1\Graduation.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5WhileCicleLab\Graduation\obj\Debug\netcoreapp3.1\Graduation.genruntimeconfig.cache

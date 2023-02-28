@@ -1,0 +1,14 @@
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\Journey\bin\Debug\netcoreapp3.1\Journey.exe
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\Journey\bin\Debug\netcoreapp3.1\Journey.deps.json
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\Journey\bin\Debug\netcoreapp3.1\Journey.runtimeconfig.json
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\Journey\bin\Debug\netcoreapp3.1\Journey.runtimeconfig.dev.json
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\Journey\bin\Debug\netcoreapp3.1\Journey.dll
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\Journey\bin\Debug\netcoreapp3.1\Journey.pdb
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\Journey\obj\Debug\netcoreapp3.1\Journey.csproj.AssemblyReference.cache
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\Journey\obj\Debug\netcoreapp3.1\Journey.GeneratedMSBuildEditorConfig.editorconfig
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\Journey\obj\Debug\netcoreapp3.1\Journey.AssemblyInfoInputs.cache
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\Journey\obj\Debug\netcoreapp3.1\Journey.AssemblyInfo.cs
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\Journey\obj\Debug\netcoreapp3.1\Journey.csproj.CoreCompileInputs.cache
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\Journey\obj\Debug\netcoreapp3.1\Journey.dll
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\Journey\obj\Debug\netcoreapp3.1\Journey.pdb
+e:\Users\user\source\repos\PBweek3AdvancedConditionalSwitchCaseExercises\Journey\obj\Debug\netcoreapp3.1\Journey.genruntimeconfig.cache

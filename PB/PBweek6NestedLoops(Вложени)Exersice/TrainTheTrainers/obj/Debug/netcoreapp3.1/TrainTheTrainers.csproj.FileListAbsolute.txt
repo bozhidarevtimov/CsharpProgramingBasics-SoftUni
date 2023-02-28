@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\TrainTheTrainers\obj\Debug\netcoreapp3.1\TrainTheTrainers.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\TrainTheTrainers\obj\Debug\netcoreapp3.1\TrainTheTrainers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\TrainTheTrainers\obj\Debug\netcoreapp3.1\TrainTheTrainers.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\TrainTheTrainers\obj\Debug\netcoreapp3.1\TrainTheTrainers.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\TrainTheTrainers\obj\Debug\netcoreapp3.1\TrainTheTrainers.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\TrainTheTrainers\bin\Debug\netcoreapp3.1\TrainTheTrainers.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\TrainTheTrainers\bin\Debug\netcoreapp3.1\TrainTheTrainers.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\TrainTheTrainers\bin\Debug\netcoreapp3.1\TrainTheTrainers.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\TrainTheTrainers\bin\Debug\netcoreapp3.1\TrainTheTrainers.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\TrainTheTrainers\bin\Debug\netcoreapp3.1\TrainTheTrainers.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\TrainTheTrainers\bin\Debug\netcoreapp3.1\TrainTheTrainers.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\TrainTheTrainers\obj\Debug\netcoreapp3.1\TrainTheTrainers.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\TrainTheTrainers\obj\Debug\netcoreapp3.1\TrainTheTrainers.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)Exersice\TrainTheTrainers\obj\Debug\netcoreapp3.1\TrainTheTrainers.genruntimeconfig.cache

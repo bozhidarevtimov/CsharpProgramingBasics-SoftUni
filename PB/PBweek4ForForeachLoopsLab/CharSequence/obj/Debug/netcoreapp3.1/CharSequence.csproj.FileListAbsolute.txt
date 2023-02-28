@@ -1,0 +1,13 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\CharSequence\bin\Debug\netcoreapp3.1\CharSequence.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\CharSequence\bin\Debug\netcoreapp3.1\CharSequence.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\CharSequence\bin\Debug\netcoreapp3.1\CharSequence.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\CharSequence\bin\Debug\netcoreapp3.1\CharSequence.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\CharSequence\bin\Debug\netcoreapp3.1\CharSequence.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\CharSequence\bin\Debug\netcoreapp3.1\CharSequence.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\CharSequence\obj\Debug\netcoreapp3.1\CharSequence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\CharSequence\obj\Debug\netcoreapp3.1\CharSequence.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\CharSequence\obj\Debug\netcoreapp3.1\CharSequence.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\CharSequence\obj\Debug\netcoreapp3.1\CharSequence.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\CharSequence\obj\Debug\netcoreapp3.1\CharSequence.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\CharSequence\obj\Debug\netcoreapp3.1\CharSequence.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\CharSequence\obj\Debug\netcoreapp3.1\CharSequence.genruntimeconfig.cache

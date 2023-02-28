@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\TrapeziodArea\areaRadiusCercle\bin\Debug\netcoreapp3.1\areaRadiusCercle.exe
+E:\Users\user\Source\Repos\TrapeziodArea\areaRadiusCercle\bin\Debug\netcoreapp3.1\areaRadiusCercle.deps.json
+E:\Users\user\Source\Repos\TrapeziodArea\areaRadiusCercle\bin\Debug\netcoreapp3.1\areaRadiusCercle.runtimeconfig.json
+E:\Users\user\Source\Repos\TrapeziodArea\areaRadiusCercle\bin\Debug\netcoreapp3.1\areaRadiusCercle.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\TrapeziodArea\areaRadiusCercle\bin\Debug\netcoreapp3.1\areaRadiusCercle.dll
+E:\Users\user\Source\Repos\TrapeziodArea\areaRadiusCercle\bin\Debug\netcoreapp3.1\areaRadiusCercle.pdb
+E:\Users\user\Source\Repos\TrapeziodArea\areaRadiusCercle\obj\Debug\netcoreapp3.1\areaRadiusCercle.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\TrapeziodArea\areaRadiusCercle\obj\Debug\netcoreapp3.1\areaRadiusCercle.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\TrapeziodArea\areaRadiusCercle\obj\Debug\netcoreapp3.1\areaRadiusCercle.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\TrapeziodArea\areaRadiusCercle\obj\Debug\netcoreapp3.1\areaRadiusCercle.AssemblyInfo.cs
+E:\Users\user\Source\Repos\TrapeziodArea\areaRadiusCercle\obj\Debug\netcoreapp3.1\areaRadiusCercle.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\TrapeziodArea\areaRadiusCercle\obj\Debug\netcoreapp3.1\areaRadiusCercle.dll
+E:\Users\user\Source\Repos\TrapeziodArea\areaRadiusCercle\obj\Debug\netcoreapp3.1\areaRadiusCercle.pdb
+E:\Users\user\Source\Repos\TrapeziodArea\areaRadiusCercle\obj\Debug\netcoreapp3.1\areaRadiusCercle.genruntimeconfig.cache

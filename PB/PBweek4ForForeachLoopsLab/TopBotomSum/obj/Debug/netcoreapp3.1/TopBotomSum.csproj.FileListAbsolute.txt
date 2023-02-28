@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\TopBotomSum\bin\Debug\netcoreapp3.1\TopBotomSum.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\TopBotomSum\bin\Debug\netcoreapp3.1\TopBotomSum.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\TopBotomSum\bin\Debug\netcoreapp3.1\TopBotomSum.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\TopBotomSum\bin\Debug\netcoreapp3.1\TopBotomSum.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\TopBotomSum\bin\Debug\netcoreapp3.1\TopBotomSum.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\TopBotomSum\bin\Debug\netcoreapp3.1\TopBotomSum.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\TopBotomSum\obj\Debug\netcoreapp3.1\TopBotomSum.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\TopBotomSum\obj\Debug\netcoreapp3.1\TopBotomSum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\TopBotomSum\obj\Debug\netcoreapp3.1\TopBotomSum.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\TopBotomSum\obj\Debug\netcoreapp3.1\TopBotomSum.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\TopBotomSum\obj\Debug\netcoreapp3.1\TopBotomSum.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\TopBotomSum\obj\Debug\netcoreapp3.1\TopBotomSum.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\TopBotomSum\obj\Debug\netcoreapp3.1\TopBotomSum.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\TopBotomSum\obj\Debug\netcoreapp3.1\TopBotomSum.genruntimeconfig.cache

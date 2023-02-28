@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\demo\Basketball equipment\bin\Debug\netcoreapp3.1\Basketball equipment.exe
+C:\Users\user\source\repos\demo\Basketball equipment\bin\Debug\netcoreapp3.1\Basketball equipment.deps.json
+C:\Users\user\source\repos\demo\Basketball equipment\bin\Debug\netcoreapp3.1\Basketball equipment.runtimeconfig.json
+C:\Users\user\source\repos\demo\Basketball equipment\bin\Debug\netcoreapp3.1\Basketball equipment.runtimeconfig.dev.json
+C:\Users\user\source\repos\demo\Basketball equipment\bin\Debug\netcoreapp3.1\Basketball equipment.dll
+C:\Users\user\source\repos\demo\Basketball equipment\bin\Debug\netcoreapp3.1\Basketball equipment.pdb
+C:\Users\user\source\repos\demo\Basketball equipment\obj\Debug\netcoreapp3.1\Basketball equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\demo\Basketball equipment\obj\Debug\netcoreapp3.1\Basketball equipment.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\demo\Basketball equipment\obj\Debug\netcoreapp3.1\Basketball equipment.AssemblyInfo.cs
+C:\Users\user\source\repos\demo\Basketball equipment\obj\Debug\netcoreapp3.1\Basketball equipment.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\demo\Basketball equipment\obj\Debug\netcoreapp3.1\Basketball equipment.dll
+C:\Users\user\source\repos\demo\Basketball equipment\obj\Debug\netcoreapp3.1\Basketball equipment.pdb
+C:\Users\user\source\repos\demo\Basketball equipment\obj\Debug\netcoreapp3.1\Basketball equipment.genruntimeconfig.cache

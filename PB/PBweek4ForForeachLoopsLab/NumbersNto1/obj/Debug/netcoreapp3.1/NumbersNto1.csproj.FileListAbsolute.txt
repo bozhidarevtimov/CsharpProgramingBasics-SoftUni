@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumbersNto1\bin\Debug\netcoreapp3.1\NumbersNto1.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumbersNto1\bin\Debug\netcoreapp3.1\NumbersNto1.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumbersNto1\bin\Debug\netcoreapp3.1\NumbersNto1.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumbersNto1\bin\Debug\netcoreapp3.1\NumbersNto1.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumbersNto1\bin\Debug\netcoreapp3.1\NumbersNto1.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumbersNto1\bin\Debug\netcoreapp3.1\NumbersNto1.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumbersNto1\obj\Debug\netcoreapp3.1\NumbersNto1.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumbersNto1\obj\Debug\netcoreapp3.1\NumbersNto1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumbersNto1\obj\Debug\netcoreapp3.1\NumbersNto1.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumbersNto1\obj\Debug\netcoreapp3.1\NumbersNto1.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumbersNto1\obj\Debug\netcoreapp3.1\NumbersNto1.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumbersNto1\obj\Debug\netcoreapp3.1\NumbersNto1.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumbersNto1\obj\Debug\netcoreapp3.1\NumbersNto1.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumbersNto1\obj\Debug\netcoreapp3.1\NumbersNto1.genruntimeconfig.cache

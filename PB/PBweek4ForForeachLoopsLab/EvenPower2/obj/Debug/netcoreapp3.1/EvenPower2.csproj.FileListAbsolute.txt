@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\EvenPower2\bin\Debug\netcoreapp3.1\EvenPower2.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\EvenPower2\bin\Debug\netcoreapp3.1\EvenPower2.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\EvenPower2\bin\Debug\netcoreapp3.1\EvenPower2.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\EvenPower2\bin\Debug\netcoreapp3.1\EvenPower2.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\EvenPower2\bin\Debug\netcoreapp3.1\EvenPower2.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\EvenPower2\bin\Debug\netcoreapp3.1\EvenPower2.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\EvenPower2\obj\Debug\netcoreapp3.1\EvenPower2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\EvenPower2\obj\Debug\netcoreapp3.1\EvenPower2.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\EvenPower2\obj\Debug\netcoreapp3.1\EvenPower2.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\EvenPower2\obj\Debug\netcoreapp3.1\EvenPower2.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\EvenPower2\obj\Debug\netcoreapp3.1\EvenPower2.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\EvenPower2\obj\Debug\netcoreapp3.1\EvenPower2.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\EvenPower2\obj\Debug\netcoreapp3.1\EvenPower2.genruntimeconfig.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\EvenPower2\obj\Debug\netcoreapp3.1\EvenPower2.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Substitute\bin\Debug\netcoreapp3.1\Substitute.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Substitute\bin\Debug\netcoreapp3.1\Substitute.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Substitute\bin\Debug\netcoreapp3.1\Substitute.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Substitute\bin\Debug\netcoreapp3.1\Substitute.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Substitute\bin\Debug\netcoreapp3.1\Substitute.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Substitute\bin\Debug\netcoreapp3.1\Substitute.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Substitute\obj\Debug\netcoreapp3.1\Substitute.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Substitute\obj\Debug\netcoreapp3.1\Substitute.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Substitute\obj\Debug\netcoreapp3.1\Substitute.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Substitute\obj\Debug\netcoreapp3.1\Substitute.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Substitute\obj\Debug\netcoreapp3.1\Substitute.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Substitute\obj\Debug\netcoreapp3.1\Substitute.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Substitute\obj\Debug\netcoreapp3.1\Substitute.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBCsharpActualExamp\Substitute\obj\Debug\netcoreapp3.1\Substitute.genruntimeconfig.cache

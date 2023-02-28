@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Equal Pairs\bin\Debug\netcoreapp3.1\Equal Pairs.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Equal Pairs\bin\Debug\netcoreapp3.1\Equal Pairs.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Equal Pairs\bin\Debug\netcoreapp3.1\Equal Pairs.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Equal Pairs\bin\Debug\netcoreapp3.1\Equal Pairs.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Equal Pairs\bin\Debug\netcoreapp3.1\Equal Pairs.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Equal Pairs\bin\Debug\netcoreapp3.1\Equal Pairs.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Equal Pairs\obj\Debug\netcoreapp3.1\Equal Pairs.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Equal Pairs\obj\Debug\netcoreapp3.1\Equal Pairs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Equal Pairs\obj\Debug\netcoreapp3.1\Equal Pairs.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Equal Pairs\obj\Debug\netcoreapp3.1\Equal Pairs.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Equal Pairs\obj\Debug\netcoreapp3.1\Equal Pairs.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Equal Pairs\obj\Debug\netcoreapp3.1\Equal Pairs.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Equal Pairs\obj\Debug\netcoreapp3.1\Equal Pairs.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsMoreExercise\Equal Pairs\obj\Debug\netcoreapp3.1\Equal Pairs.genruntimeconfig.cache

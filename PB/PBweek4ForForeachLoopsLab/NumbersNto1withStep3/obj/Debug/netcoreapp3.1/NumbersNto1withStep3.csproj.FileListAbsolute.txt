@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumbersNto1withStep3\bin\Debug\netcoreapp3.1\NumbersNto1withStep3.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumbersNto1withStep3\bin\Debug\netcoreapp3.1\NumbersNto1withStep3.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumbersNto1withStep3\bin\Debug\netcoreapp3.1\NumbersNto1withStep3.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumbersNto1withStep3\bin\Debug\netcoreapp3.1\NumbersNto1withStep3.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumbersNto1withStep3\bin\Debug\netcoreapp3.1\NumbersNto1withStep3.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumbersNto1withStep3\bin\Debug\netcoreapp3.1\NumbersNto1withStep3.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumbersNto1withStep3\obj\Debug\netcoreapp3.1\NumbersNto1withStep3.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumbersNto1withStep3\obj\Debug\netcoreapp3.1\NumbersNto1withStep3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumbersNto1withStep3\obj\Debug\netcoreapp3.1\NumbersNto1withStep3.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumbersNto1withStep3\obj\Debug\netcoreapp3.1\NumbersNto1withStep3.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumbersNto1withStep3\obj\Debug\netcoreapp3.1\NumbersNto1withStep3.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumbersNto1withStep3\obj\Debug\netcoreapp3.1\NumbersNto1withStep3.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumbersNto1withStep3\obj\Debug\netcoreapp3.1\NumbersNto1withStep3.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek4ForForeachLoopsLab\NumbersNto1withStep3\obj\Debug\netcoreapp3.1\NumbersNto1withStep3.genruntimeconfig.cache

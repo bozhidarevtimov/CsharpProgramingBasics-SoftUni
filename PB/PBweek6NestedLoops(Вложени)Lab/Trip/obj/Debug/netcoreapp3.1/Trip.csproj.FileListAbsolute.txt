@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\Trip\bin\Debug\netcoreapp3.1\Trip.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\Trip\bin\Debug\netcoreapp3.1\Trip.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\Trip\bin\Debug\netcoreapp3.1\Trip.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\Trip\bin\Debug\netcoreapp3.1\Trip.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\Trip\bin\Debug\netcoreapp3.1\Trip.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\Trip\bin\Debug\netcoreapp3.1\Trip.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\Trip\obj\Debug\netcoreapp3.1\Trip.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\Trip\obj\Debug\netcoreapp3.1\Trip.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\Trip\obj\Debug\netcoreapp3.1\Trip.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\Trip\obj\Debug\netcoreapp3.1\Trip.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\Trip\obj\Debug\netcoreapp3.1\Trip.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\Trip\obj\Debug\netcoreapp3.1\Trip.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\Trip\obj\Debug\netcoreapp3.1\Trip.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek5NestedLoops(Вложени)Lab\Trip\obj\Debug\netcoreapp3.1\Trip.genruntimeconfig.cache

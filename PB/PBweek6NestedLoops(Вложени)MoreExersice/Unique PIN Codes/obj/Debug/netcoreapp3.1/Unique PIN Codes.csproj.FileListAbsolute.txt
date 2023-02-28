@@ -1,0 +1,14 @@
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Unique PIN Codes\bin\Debug\netcoreapp3.1\Unique PIN Codes.exe
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Unique PIN Codes\bin\Debug\netcoreapp3.1\Unique PIN Codes.deps.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Unique PIN Codes\bin\Debug\netcoreapp3.1\Unique PIN Codes.runtimeconfig.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Unique PIN Codes\bin\Debug\netcoreapp3.1\Unique PIN Codes.runtimeconfig.dev.json
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Unique PIN Codes\bin\Debug\netcoreapp3.1\Unique PIN Codes.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Unique PIN Codes\bin\Debug\netcoreapp3.1\Unique PIN Codes.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Unique PIN Codes\obj\Debug\netcoreapp3.1\Unique PIN Codes.csproj.AssemblyReference.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Unique PIN Codes\obj\Debug\netcoreapp3.1\Unique PIN Codes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Unique PIN Codes\obj\Debug\netcoreapp3.1\Unique PIN Codes.AssemblyInfoInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Unique PIN Codes\obj\Debug\netcoreapp3.1\Unique PIN Codes.AssemblyInfo.cs
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Unique PIN Codes\obj\Debug\netcoreapp3.1\Unique PIN Codes.csproj.CoreCompileInputs.cache
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Unique PIN Codes\obj\Debug\netcoreapp3.1\Unique PIN Codes.dll
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Unique PIN Codes\obj\Debug\netcoreapp3.1\Unique PIN Codes.pdb
+E:\Users\user\Source\Repos\ProgramingBasicsSoftUni\PBweek6NestedLoops(Вложени)MoreExersice\Unique PIN Codes\obj\Debug\netcoreapp3.1\Unique PIN Codes.genruntimeconfig.cache
